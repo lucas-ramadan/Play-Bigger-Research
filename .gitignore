@@ -1,6 +1,9 @@
 # Ignore the ODM files, b/c > 100MB files
 data/
 
+# Ignore the CB API key, don't want public on github
+*.CB_key
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
