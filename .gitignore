@@ -7,6 +7,9 @@ Q2_2015_updated_master (v30).csv
 # Ignore the CB API key, don't want public on github
 *.CB_key
 
+# Ignore the database files in csv
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
