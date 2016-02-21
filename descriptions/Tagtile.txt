@@ -1,0 +1,3 @@
+Tagtile helps local businesses identify, engage and increase repeat purchases from customers through a frictionless loyalty and direct marketing solution. 
+
+The Tagtile product consists of a custom hardware device, the Tagtile Cube, that merchants place at their cash counter. Users record their transactions at these businesses by tapping their smartphone against the Tagtile Cube, and get rewarded for being a loyal customer. Merchants can access user information and purchase history through an online dashboard, and use this information to send highly targeted marketing messages directly to their customers. Founded by alumni from Google and Stanford, Tagtile is based in San Francisco.

@@ -1,0 +1,7 @@
+TokBox, a Telefónica Digital company, develops and operates the OpenTok Video Platform, making it fast and easy to add live video communications into online and mobile websites, apps and services. The scalable, customizable platform gives users the creative freedom to develop any video interaction, from one-to-one chats to large-scale broadcasts.
+ 
+The first platform to incorporate support for WebRTC, [OpenTok](http://tokbox.com/opentok) caters to enterprises, entrepreneurs and developers with powerful APIs, a global cloud infrastructure, and pre-configured solutions. OpenTok has been used to add video communications to more than 80,000 services by companies including Major League Baseball, Diet Coke, Ford, Doritos, Bridgestone and Double Robotics.
+
+TokBox is a privately held company headquartered in San Francisco, CA.
+
+For more information, visit [TokBox](http://www.tokbox.com)

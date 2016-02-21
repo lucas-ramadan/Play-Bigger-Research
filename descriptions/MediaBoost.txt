@@ -1,0 +1,1 @@
+MediaBoost takes an algorithmic approach to ad spend optimization, making the process of keyword bidding automatic for the advertiser. Rather than using rules of thumb, or trying to put guesstimates on the bid price for a certain keyboard, MediaBoost's flagship product, AdBooster, will do it for you.

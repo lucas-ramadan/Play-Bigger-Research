@@ -1,0 +1,13 @@
+Stockr is a social media platform for the financial world that connects investors directly to the people and companies they want to follow.
+
+July 2012 Private Beta release features included:
+
+- Pulse: a real-time feed of system wide chatter aggregated by ticker symbol
+
+- News: real-time news feeds from almost 200 original news sources, that users can customize to stream only the news that is most valuable to them 
+
+- Investor Profile Pages: basic user information and what stocks the users follow
+
+- Company Pages: a broad spectrum of historical data and interactive charts, along with real-time company news and system chatter
+
+- Watch Lists: users can create portfolios and choose to share them with other users

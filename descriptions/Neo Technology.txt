@@ -1,0 +1,7 @@
+Graphs are everywhere. From websites adding social capabilities to Telcos providing personalized customer services, to innovative bioinformatics research, organizations are adopting graph databases as the best way to model and query connected data.
+
+Neo Technology researchers pioneered the first graph database back in 2000, and have been instrumental in bringing the power of the graph to numerous organizations worldwide, including more than 40 Global 2000 customers, such as Cisco, Accenture, Telenor, eBay and Walmart. Neo Technology is especially proud to power the business graph behind CrunchBase. Serving customers in production for over a decade, Neo4j is the world's leading graph database with the largest ecosystem of partners and tens of thousands of successful deployments. 
+
+According to DB-Engines, Neo4j dominates the fastest growing category in all data management, and Forrester Research estimates that over 25% of enterprises will use a graph database by 2017.
+
+Neo Technology is a privately held company funded by Fidelity Growth Partners Europe, Sunstone Capital and Conor Venture Partners, and is headquartered in San Mateo, CA, with offices in Sweden, UK, Germany, France, and Malaysia.

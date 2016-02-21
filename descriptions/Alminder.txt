@@ -1,0 +1,11 @@
+Alminder, Inc. makes Mynd Calendar, an intelligent mobile calendar app for iPhone that acts like a virtual assistant, making your life easier at home and work and saving you time.  It learns where you spend your time and who you meet along the way, becoming increasingly helpful the more you use it. It syncs with all of your existing calendars and can be used instead of your Apple calendar on your iPhone.
+
+Unlike other so-called 'smart calendars,' Mynd Calendar's sophisticated algorithms identify the places you're going within the content of your calendar events and accurately predict (even in advance) how much buffer time you need to schedule between meetings given the typical traffic at that time of day.  As you get closer to your appointments, Mynd Calendar tells you when to leave, based on current traffic conditions and launches your favorite navigation app to get you to your appointment on time.  
+
+Mynd Calendar also:
+-Notifies you when you're running late and lets you easily email, call or text the people who need to know from within the calendar.
+-Automatically identifies conference call numbers and facilitates easy, one-click dial-in.
+-Discovers the people listed in your calendar events and looks up their LinkedIn profiles and information from your address book, so you know who you’re meeting with and can get in touch with them directly from your calendar.
+-Pulls in your relevant Evernote notes so that you're always prepared for your next meeting.
+-RSVP to meeting invites.
+-Tells you the weather at both where you are and where you're going.

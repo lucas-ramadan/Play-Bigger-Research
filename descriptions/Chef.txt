@@ -1,0 +1,16 @@
+Chef is an automation platform that transforms infrastructure into code. Chef allows its users to automate how they build, deploy, and manage their infrastructure.
+
+
+It depends on reusable definitions known as recipes to automate infrastructure tasks. Instructions for configuring web servers, databases, and load balancers can be given as examples of these recipes. Together, recipes describe what its users’ infrastructure consists of and how each part of their infrastructure should be deployed, configured, and managed.
+
+
+Recipes use building blocks called resources that describe some piece of infrastructure, such as a file, a template, or a package to be installed. People can use the many resources included in Chef, or create their own to manage configurations and legacy systems.
+
+
+Whether its users’ network is in the cloud, on-site, or a hybrid, Chef can automate how they configure, deploy, and scale their servers and applications, whether they manage 5 servers, 5,000 servers, or 500,000 servers.
+
+
+The Chef server stores its users’ recipes as well as other configuration data. The Chef client is installed on each node in its users’ network. A node can be a physical server, a virtual server, or a container instance. The Chef client periodically polls the Chef server for the latest recipes and checks to see if the node is in compliance with the policy defined by the recipes. If the node is out of date, the Chef client runs them on the node to bring it up to date.
+
+
+Chef was founded in 2008 and is headquartered in Seattle, W.A.

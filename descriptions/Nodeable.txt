@@ -1,0 +1,2 @@
+Nodeable provides real-time data stream processing for big data applications. Nodeable¹s StreamReduce engine aggregates, normalizes and analyzes data before it reaches Hadoop, significantly accelerating batch processing under MapReduce. Customers are up and running in under 15
+minutes and scale large workloads easily with Nodeable¹s cloud-based deployment. Founded in 2011, the company is backed by True Ventures.

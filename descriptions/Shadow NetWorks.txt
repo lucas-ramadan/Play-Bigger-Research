@@ -1,0 +1,7 @@
+ZanttZ is now Shadow Networks. 
+
+Shadow Networks is a privately-held company led by an experienced management team comprising former executives from networking and security leaders like Cisco, McAfee, Symantec, as well as top government research labs. We are hard at work building a new generation of Active Threat Deception™ security solutions designed to combat today’s most dangerous and pervasive threats on Enterprises, Service Providers and Government networks.
+
+Shadow Networks’ solutions will detect and mitigate the large number of new sophisticated attacks on enterprise and government networks; in particular, we are targeting Advanced Persistent Threats (APTs) that have proven extremely vexing for existing security solutions–many of them are not caught today despite organizations spending over $9B on overall network security.
+
+With a proven foundation based on over 5 years of Government-funded research, and with technologies already deployed and proven at the US Department of Defense and other government agencies, the Shadow Networks platform aims to change the economics for APT attacks and turn the tables on attackers.

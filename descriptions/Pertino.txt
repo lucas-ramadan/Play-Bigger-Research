@@ -1,0 +1,7 @@
+The unstoppable forces of mobile and cloud are transforming IT and making the Internet the new WAN. Pertino enables enterprises to build and manage private cloud networks that overlay the public Internet and extend visibility, security and control to workforces and workloads everywhere. 
+
+The Pertino Cloud Network Engine platform powers the company's network-as-a-service offering—combining the power and persuasiveness of the cloud with network virtualization, Software-Defined Networking (SDN) and Network Service Virtualization (NSV).  Pertino is an entirely new way to WAN that lets IT organizations build and manage private virtual networks over the Internet, securely connecting people and resources anywhere. IT admins can add virtual network services from the AppScape app store to extend the security, visibility and control of their Pertino cloud networks with just a few clicks.
+
+Today, over 5,000 customers have used Pertino's Cloud Network Engine to build cloud networks spanning over 70 countries around the world, from Iceland to Australia.
+
+Headquartered in Los Gatos, California, Pertino is a venture-backed company funded by Norwest Venture Partners (NVP), Lightspeed Venture Partners and JAFCO Ventures, with private investments from a number of network industry luminaries.

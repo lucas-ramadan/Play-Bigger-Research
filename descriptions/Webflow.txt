@@ -1,0 +1,2 @@
+Webflow is a hosted platform that allows web designers to create responsive websites visually, without writing any code.
+Webflow generates valid markup and stylesheets, so you can trust that the generated code is clean. Webflow automatically adds code to render consistently across different browsers. If your project requires really custom programming changes, you can always hand off your Webflow site to a developer. No more wrangling with media query spaghetti code in a text editor. Webflow's intuitive interface makes responsive design a breeze.

@@ -1,0 +1,8 @@
+People Pattern is a Software as a Service platform that supplies meaningful Audience Insights to the world’s biggest brands. Via semi-supervised machine-learned algorithms and natural language processing, People Pattern turns vast, messy public expression into actionable persona sets, helping brands gain an edge in the race to win, retain and serve customers.
+
+With People Pattern, companies can:
+
+1. Generate high-quality leads in target segments
+2. Validate existing audience segments, and swiftly identify new segments to target
+3. Enrich existing data 
+4. Inform campaign planning and activation

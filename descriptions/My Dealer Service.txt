@@ -1,0 +1,5 @@
+My Dealer Service empowers automotive service departments with digital connectivity and workflow management, elevating efficiency and creating an unprecedented customer experience.
+
+The web application connects automotive service centers with their customers and enables its users to know the current status of their repairs.
+
+My Dealer Service was founded in March 2013 and is based in Denver, Colorado.

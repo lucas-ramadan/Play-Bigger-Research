@@ -1,0 +1,1 @@
+Buzzient provides enterprise business integration with social media, designed by enterprise executives.  Buzzient is the first company to develop an application that integrates social media from Twitter, YouTube, Facebook, Forums, iTunes reviews, blogs and other social media to Salesforce.com, SugarCRM, and Oracle CRM OnDemand with ONE platform.

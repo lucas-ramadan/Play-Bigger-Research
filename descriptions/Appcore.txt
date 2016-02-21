@@ -1,0 +1,3 @@
+Appcore is a leading CloudStack solutions company focused on simplifying the complexity of cloud management. Our solutions include software, consulting and support to deliver enterprise-grade clouds tailored to your custom specifications.
+
+Headquartered in Des Moines, Iowa, Appcore’s focus is centered around enhancing Apache CloudStack and Citrix CloudPlatform. We develop software and provide the technical expertise to design, architect, integrate and implement CloudStack environments for service providers and enterprises.

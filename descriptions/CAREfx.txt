@@ -1,0 +1,3 @@
+Carefx's main solution "Fusionfx" helps close information gaps between hospital/IDN CIO and CMIO and healthcare IT departments.
+
+Fusionfx is able to help "synthesize disparate data into clinically relevant, user-centric workflows." The solution aims to connect the data points and make it comprehensive/understandable fo patients, payers, clinicians, and the compliance agencies who seek such information.

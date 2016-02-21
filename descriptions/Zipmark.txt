@@ -1,0 +1,9 @@
+Zipmark enables businesses to send and receive 100% digital checks without risk, at a reasonable and transparent cost.  
+
+Zipmark's API can be easily integrated into web and mobile payments, offering a lower cost alternative to credit and debit cards; also by leveraging Zipmark QR codes users can pay for items such as rent, fees or subscriptions directly from paper invoices via the Zipmark iPhone app.
+ 
+Zipmark was founded by Jake Howerton and Jay Bhattacharya. 
+
+Jay was the co-founder of Mobile Money Ventures (acquired by Intuit) and was with Citigroup for 7 years where he was responsible for emerging payments strategy including mobile, NFC and smartcards. 
+
+Jake is a technology focused entrepreneur and the former CTO of Sunshine Suites, Inc. Magazine's 15th Fastest Growing Real Estate Company in 2009. Jake is also active in creating the OpenTransact standard, an open and simple financial standard for authorizing transactions without revealing account credentials.

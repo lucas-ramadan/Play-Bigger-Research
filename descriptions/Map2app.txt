@@ -1,0 +1,5 @@
+Maptoapp is a browser-based platform designed to make creating mobile tourist guides quick and easy and to distribute them on multiple devices (ios android j2me).
+
+The idea is pretty simple. People can create points of interests through the platform, group them in categories and create professional tourist guides from them to be sold through the stores.
+
+They can also share their Points of Interest with other people thus building up collaborative tourist guides.

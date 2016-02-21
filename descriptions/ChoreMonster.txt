@@ -1,0 +1,5 @@
+ChoreMonster is a platform for web and mobile that makes chores actually fun for kids.
+
+Kids earn points by completing chores to use towards rewards like an hour of video games or a camping trip.  For each chore completed, kids also earn a ticket to the Monster Carnival, where they can earn over 100 collectible, interactive monsters.  With ChoreMonster, kids will beg to do their chores!
+
+In April 2014, ChoreMonster launched ChoreMonster 2.0, adding support for iPad, 4 new languages, integration with Amazon.com for rewards, and more.  ChoreMonster also removed subscriptions, making the app entirely free for all households.

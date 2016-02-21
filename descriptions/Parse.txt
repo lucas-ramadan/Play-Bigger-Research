@@ -1,0 +1,3 @@
+Parse is the cloud app platform for Windows 8, Windows Phone 8, iOS, Android, JavaScript, and OS X. With Parse, you can add a scalable and powerful backend in minutes and launch a full-featured mobile or web app in record time without ever worrying about server management. Parse offers push notifications, social integration, data storage, and the ability to add rich custom logic to your app’s backend with Cloud Code. Build more with Parse.
+
+Facebook announced Parse will close Jan. 28, 2017.

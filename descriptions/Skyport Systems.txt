@@ -1,0 +1,3 @@
+Skyport Systems develops Hyper-Secured Infrastructure (HSI) that ensures the security of mission-critical IT and corporate assets, with tight integration of compute, security, virtualization and policy management.
+
+Skyport’s SkySecure System is an engineered hardware, software and service stack. It operates as a single turn-key system inclusive of all necessary software and hardware and provides continuous protection and integrity verification for application workloads and their underlying hardware and software.

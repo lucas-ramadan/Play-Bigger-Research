@@ -1,0 +1,7 @@
+Founded in 2006 and acquired by payvia in 2013, Mogreet is the leading text message marketing platform focusing on the delivery of fully branded, rich media to mobile devices via MMS. The company works with leading marketers in entertainment, media, retail, consumer products, health care and real estate. Currently supported in over 175 countries, Mogreet's messaging platform can reach 2 billion consumers globally.
+
+In 2013, Mogreet launched Mogreet Express, the first self-service MMS text messaging platform, allowing small businesses to engage with customers and increase sales by sending multimedia rich messages.
+
+Mogreet's newly released APIs let developers quickly send SMS or MMS messaging ($0.01 each per send) and add MMS, SMS, video, rich media messaging to apps. 
+
+This Venice, California based company started as a mobile greetings company and went on to develop a mobile messaging platform with the capability to send MMS messages with high quality and optimized video, images, audio, and social media integration.  Mogreet was acquired in 2013 by the mobile payments industry leader, payvia to build a single solution that allows brands of all sizes to target, transact and engage with customers.

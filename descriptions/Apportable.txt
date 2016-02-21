@@ -1,0 +1,3 @@
+The Apportable platform converts iOS games to Android automatically, without extensive changes to the original Objective-C or C++ code.
+
+The results speak for themselves: apps powered by Apportable have risen to the top of the charts and delighted millions of users through the Google Play Store, Amazon Appstore, Samsung Apps, and the Humble Android Bundle.

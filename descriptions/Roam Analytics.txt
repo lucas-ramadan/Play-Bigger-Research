@@ -1,0 +1,1 @@
+Roam is a predictive analytics web platform for sales organizations in life science industries. Roam enables automated analysis, data aggregation, and collaboration to help turn data into decisions.

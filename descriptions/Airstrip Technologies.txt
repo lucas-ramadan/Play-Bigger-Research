@@ -1,0 +1,1 @@
+The AirStrip Technologies platform securely delivers critical patient information, including virtual real-time waveform data, directly from hospital monitoring systems to a doctor or nurse's smart phone, laptop or desktop. The platform is completely reusable, scalable and data independent, and can be employed throughout the healthcare enterprise.

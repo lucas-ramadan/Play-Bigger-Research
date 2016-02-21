@@ -1,0 +1,9 @@
+NextBio is privately owned software company that provides a platform for life science researchers to search, discover, and share knowledge across public and proprietary data.
+
+Nextbio was co-founded by Saeid Akhtari, Ilya Kupershmidt and Mostafa Ronaghi in 2004 and based in Cupertino California, USA.
+
+The NextBio Platform is an ontology-based semantic framework that connects highly heterogeneous data and textual information. The semantic framework is based on gene, tissue, disease and compound ontologies. This framework contains information from diverse organisms, platforms, data types and research areas is integrated into and correlated within a single searchable environment using proprietary algorithms. It provides a unified interface for researchers to formulate and test new hypotheses across vast collections of experimental data. 
+
+The enterprise version of the NextBio platform is being used in life science R&D and drug development by researchers and clinicians at: Merck Pharmaceutical, Johnson & Johnson Pharmaceutical Research & Development, L.L.C., Celgene, Genzyme, Eli Lilly and Company, and [[Regeneron Pharmaceuticals. This enterprise version allows internal, proprietary data to be uploaded and integrated into the NextBio database of publicly-available data. Scientists are using NextBio to improve their ability to identify relevant prognostic and predictive molecular signatures which are significant in their research.
+
+NextBio was a receiver of the Frost & Sullivan North American Life Sciences Customer Value Enhancement Award in 2008. Since the release it has had more than 1,500,000 visitors.

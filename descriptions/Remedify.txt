@@ -1,0 +1,3 @@
+Remedify is a database and iPad app that helps technicians correctly clean and sterilize reusable surgical instruments.
+
+Remedify is cloud-based software that takes the guesswork out of sterile processing at hospitals and surgery centers.

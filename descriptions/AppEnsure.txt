@@ -1,0 +1,6 @@
+AppEnsure Ensures  business critical Applications Performance 
+AppEnsure delivers an Application Performance Management (APM) solution that works for every Windows or Linux application, irrespective of its source; custom developed or purchased, and irrespective of how it is deployed; physical, virtual, private cloud, or public cloud. We are agnostic to what an App is or does.
+
+AppEnsure automatically identifies the applications, maps their topologies, monitors end-to-end response time and throughput across the entire distributed topology of the application and its supporting infrastructure. 
+
+The solution delivers automated root cause analysis when application service level degrades, with resolution instructions provided in clear English to Operations. AppEnsure is offered as both an on-premise basis for enterprise, and on a SaaS basis for cloud deployments.

@@ -1,0 +1,3 @@
+Fliqz is a plug and play video solution for websites that requires no software download and competes directly against [Brightcove](http://www.crunchbase.com/company/brightcove). 
+
+They offer 5 different packages starting with a free basic player which is ad funded which includes 25 uploads, and 500 streams, to a platinum package which costs $999/month with a $7500 development fee, but it includes 5,000 uploads, 250,000 streams, and allows for complete customization of the player.

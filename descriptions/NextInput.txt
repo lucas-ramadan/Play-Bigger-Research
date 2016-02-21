@@ -1,0 +1,5 @@
+NextInput markets a set of proprietary touch technologies that solve key pains in the $20 billion market for touch technology. NextInput's ForceTouch technology is useful for a variety of electronic device interface applications, including touchscreens for next generation smartphones and tablet PCs.
+
+NextInput was formed by a team of engineers and business professionals from Georgia Tech to commercialize a force sensitive touch technology developed by COO Ian Campbell. Following a seed funding round in mid-2012, the company has brought successful products to market incorporating the technology and has developed market ready touch surface demonstration kits.
+
+We create input devices for the electronics industry – force sensitive buttons, touch pads, and touchscreens. Our input devices sense direct physical deformation of a touch surface, rather than sensing changes in an electric field, optical beam, or resistive film. Our approach is less expensive, uses less power, is practical for mobile applications, enables 3D touch (x, y, and amount of force), and allows use of more durable materials.

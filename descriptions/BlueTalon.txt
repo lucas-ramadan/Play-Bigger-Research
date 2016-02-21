@@ -1,0 +1,1 @@
+BlueTalon, Inc. delivers unmatched data entitlement solutions for Hadoop. The BlueTalon Policy Engine delivers enterprise-grade data access and security through fine-grained data access control and provisioning that integrates with existing enterprise infrastructures across different data stores.

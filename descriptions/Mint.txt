@@ -1,0 +1,1 @@
+Mint is an extensible, self-hosted web site analytics program. Its interface is an exercise in simplicity. Visits, referrers, popular pages and searches can all be taken in at a glance on Mint's flexible dashboard.

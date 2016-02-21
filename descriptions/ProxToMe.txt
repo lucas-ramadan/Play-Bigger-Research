@@ -1,0 +1,7 @@
+ProxToMe gives vision and voice to your devices. What they see and say depends on you.
+
+They provide a software platform to collect, manage, and monetize device-associated data through ProxToMe APIs, mobile SDK, and proprietary applications. In short, their platform allows you to take advantage of the Internet of Things.
+
+Their clients come from a variety of industries including retail, entertainment, hospitality and banking. Whether they are service providers or technology end-users, they can use platform to build new services that monetize their connectable hardware. Devices become digital hotspots that can be remotely managed and used to collect relevant data and engage with mobile users in proximity in ways never before possible. 
+
+The complete ProxToMe platform, or its mobile SDK alone, can be utilized by a vast range of applications like brick-and-mortar retail, proximity engagement, proximity mobile payment, indoor sales assistance, proximity gaming, collaboration platforms, smart things for live event interactions, and more!

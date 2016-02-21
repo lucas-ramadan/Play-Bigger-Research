@@ -1,0 +1,3 @@
+Curbside makes it easy to find, buy and pickup products at nearby stores. 
+
+The Curbside app searches realtime local inventory across retailers and uses location-based technologies to alert stores when a customer is arriving for a pickup. Curbside helps consumers quickly get what they need and helps retailers better serve their increasingly mobile centric customers.

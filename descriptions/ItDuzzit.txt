@@ -1,0 +1,3 @@
+itDuzzit is a web-based platform that integrates its users’ cloud-based applications by combining its pre-built connectors. It provides solutions to sync data between cloud-based applications.
+
+itDuzzit was launched in Chicago, Illinois.

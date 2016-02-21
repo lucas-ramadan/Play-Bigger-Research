@@ -1,0 +1,5 @@
+CJReport is a wiki-like citizen journalism website.
+
+CJReport aims to deliver news content that is open, one step ahead of the existing citizen journalism websites in the fact that it allows anonymous story submission and edit. A voting system lets users decide what stories are news worthy enough to get promoted on the front page. News articles contain news sources to other news websites, related blog posts, photos and video coverage.
+
+CJReport also gives people the ability to report news with their mobile phones. Photos and text can be sent directly to the site and is published within minutes. 

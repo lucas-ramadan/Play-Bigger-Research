@@ -1,0 +1,7 @@
+Parka is a small team of individuals whose mission is to connect websites, creating strength in numbers; making the Internet a safer and better place. Parka, LLC is the home of BruteProtect and QuickForget.
+
+BruteProtect is a cloud-powered Brute Force attack prevention plugin. We leverage the millions of WordPress sites to identify and block malicious IPs.
+
+BruteProtect tracks failed login attempts across all installed users of the plugin.  If any single IP has too many failed attempts in a short period of time, they are blocked from logging in to any site with this plugin installed. Once the plugin is installed, you’ll need to get a free BruteProtect API key, which you can do directly from your WordPress dashboard.
+
+The plugin allows you to protect yourself against traditional brute force attacks AND distributed brute force attacks that use many servers and many IPs and even supports Multisite Networks.

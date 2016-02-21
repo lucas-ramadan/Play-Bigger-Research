@@ -1,0 +1,3 @@
+DataStax powers the apps that transform business for more than 500 customers, including startups and 25 percent of the Fortune 100. DataStax delivers a massively scalable, flexible and continuously available big data platform built on Apache Cassandra™. DataStax integrates enterprise-ready Cassandra, Apache Hadoop™ for analytics and Apache Solr™ for search, across multiple data centers and in the cloud.
+
+Companies such as Adobe, HealthCare Anytime, eBay, Thomson Reuters and Netflix rely on DataStax to transform their businesses. Based in San Mateo, Calif., DataStax is backed by industry-leading investors: Lightspeed Venture Partners, Crosslink Capital and Meritech Capital Partners. For more information, visit http://www.datastax.com/ and follow @DataStax.

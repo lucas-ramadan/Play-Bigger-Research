@@ -1,0 +1,3 @@
+Fulcrum Microsystems, Inc., a fabless semiconductor company, provides interconnect devices for storage, computing and networking backplane, and interconnect applications in the United States and internationally. The companyâ€™s products include FocalPoint, which includes Ethernet switch/router chips; ControlPoint Software Suite that comprises Ethernet bridging, switching, and routing software modules; and PivotPoint SPI-4.2 Interconnect Chip that provides interconnection packet and protocol processing resources on a line card. It serves the original equipment manufacturers. 
+
+Fulcrum Microsystems, Inc., formerly known as Asynchronous Digital Design, was founded in 2000 and is based in Calabasas, California.

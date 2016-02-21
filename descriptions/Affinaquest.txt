@@ -1,0 +1,1 @@
+Affinaquest is a powerful and versatile tool which uses the Salesforce.com platform to manage information for effective fundraising.  Affinaquest is built with an understanding that the nonprofit community has specialized data requirements.

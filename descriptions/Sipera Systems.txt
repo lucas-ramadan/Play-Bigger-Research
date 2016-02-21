@@ -1,0 +1,3 @@
+Sipera Systems is the worldwide market leader in solutions for the rapid and simple adoption of Unified Communications (UC).  Thousands of users around the globe rely on Sipera to secure VoIP, IP video, collaboration, messaging and dozens of other high-performance applications. Sipera's groundbreaking "Borderless UC" enables secure communications to any device in any location.
+ 
+Backed by the extensive vulnerability research of the Sipera VIPER Lab, Sipera's solutions for VoIP security and UC security enable enterprises to deploy remote teleworkers, distributed call centers, business continuity, pandemic planning, secure SIP trunks, toll fraud prevention, media logging and archiving, and many other communications innovations.

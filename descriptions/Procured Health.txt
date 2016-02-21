@@ -1,0 +1,4 @@
+Procured Health offers technologies that drive much-needed savings in hospital supply spend.  Procured's solution suite includes three web-based products: IntelligencePRO, EvaluationPRO, and PipelnePRO. 
+- IntelligencePRO is a comprehensive database of market and clinical information for medical devices, which enables value-driven decision making
+- EvaluationPRO is workflow solution developed specifically for the hospital purchasing process
+- PipelinePRO is a savings discovery BI tool that leverages data science methods to help healthcare providers proactively identify optimization opportunities

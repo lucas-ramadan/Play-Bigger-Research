@@ -1,0 +1,11 @@
+Coverity, the development testing leader, is the trusted standard for companies that need to protect their brands and bottom lines from software failures. More than 1,100 Coverity customers use Coverity's development testing suite of products to automatically test source code for software defects that could lead to product crashes, unexpected behavior, security breaches, or catastrophic failure. Coverity is a privately held company headquartered in San Francisco, with offices in Boston, Calgary, London, Munich, Paris, Amsterdam and Tokyo, with more than 240 employees worldwide. Coverity is funded by Foundation Capital and Benchmark Capital.
+
+Founded in the Computer Systems Laboratory at Stanford University in Palo Alto, California, Coverity invented a fundamentally different way to test complex source code to find hard to spot, yet critical software defects in a solution that was consumable for commercial use. Since its inception in 2003, Coverity has cemented its leadership position in the industry with its flagship offering, CoverityÂ® Static Analysis, and has expanded its product portfolio to include a suite of additional capabilities as part of its development testing platform.
+
+Over 1,100 of the world's largest brands, including Honeywell, NEC, BAE Systems, Juniper Networks, BMC Software, Samsung, France Telecom, Sega, and Schneider Electric rely on Coverity to help ensure the quality, safety and security of their products and services. Industry leading companies use Coverity to help them sustain competitive advantage, customer satisfaction, and innovation by delivering high quality products to market, including:
+
+10 of the Top 10 Diversified Electronics Manufacturers
+10 of the Top 10 Mobile and Telecommunications Device Manufacturers
+7 of the Top 10 Aerospace and Defense Companies
+6 of the Top 10 Software Companies
+Coverity currently has over five billion lines of source code under management and is the development testing gate to over 11 billion devices shipping in the market today.

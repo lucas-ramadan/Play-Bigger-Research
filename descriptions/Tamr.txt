@@ -1,0 +1,3 @@
+Tamr, based in Cambridge, Massachusetts, was founded in 2013 by database industry veterans Andy Palmer, Mike Stonebraker and Ihab Ilyas with George Beskales, Daniel Bruckner and Alex Pagan.
+Following the success of initial research at MIT CSAIL, the Tamr team began building a commercial-grade solution designed to tackle the challenge of connecting and enriching diverse data at scale, quickly and cost effectively.
+Launched in the spring of 2014 and backed by a series of investors, such as Google Ventures and New Enterprise Associates, Tamr is deployed in production at a variety organizations, including information services providers, pharmaceutical firms and retailers.

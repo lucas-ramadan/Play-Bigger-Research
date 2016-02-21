@@ -1,0 +1,7 @@
+nChannel provides sellers with the tools to manage multichannel operations with unprecedented ease and flexibility. Our cloud-based platform integrates management processes such as product information management (PIM), customer experience, order management, inventory synchronization, business intelligence, and supply chain integration through a highly agile and intuitive workspace. 
+
+nChannel’s cost-effective subscription model enables companies to manage sales processes for both wholesale and consumer channels. Utilizing nChannel, subscribers connect their existing financial, ERP and/or POS systems with any number of external online and offline stores. Connect to vital sales channels such as NetSuite, Amazon, Magento, Shopify, Microsoft Dynamics applications and more through our innovative platform. 
+
+nChannel partners with leading application designers in the eCommerce industry to develop seamless integration between a user’s front-end and back-office systems. The result is one integrated platform empowering companies to maximize the use of the systems they already own, improve data visibility, and streamline operations.
+
+For additional information about nChannel, please visit our website at www.nchannel.com. To view our complete list of connections, please visit www.nchannel.com/connectors.

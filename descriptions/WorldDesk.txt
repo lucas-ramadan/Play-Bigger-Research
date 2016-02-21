@@ -1,0 +1,5 @@
+WorldDesk lets you to carry your entire workspace around on any device, in the cloud or served over your company network.
+
+Your apps, data and profile are held in WorldDesk, so that you can **take your world with you.**
+
+Our mission is to deliver personalised mobile computing solutions based around your devices, the cloud and VMWare and Citrix platforms.

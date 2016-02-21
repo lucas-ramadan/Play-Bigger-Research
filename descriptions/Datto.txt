@@ -1,0 +1,5 @@
+Datto is an innovative provider of comprehensive backup, recovery and business continuity solutions used by thousands of managed service providers worldwide. 
+
+Datto’s 150+ PB private cloud and family of software and hardware devices provide Total Data Protection everywhere business data lives. Whether your data is on-prem in a physical or virtual server, or in the cloud via SaaS applications, only Datto offers end-to-end recoverability and single-vendor accountability. 
+
+Founded in 2007 by Austin McChord, Datto is privately held and profitable. In 2013, General Catalyst Partners invested $25M in growth capital, and in 2015 McChord was named to the Forbes 30 under 30.

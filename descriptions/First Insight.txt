@@ -1,0 +1,3 @@
+First Insight's SaaS solution gives retailers and manufacturers insight into expected product performance and optimal entry price points for new items that have no sales history, all within 48-72 hours.  
+
+We do this through a scalable "big data" platform that enables thousands of consumers to evaluate hundreds of candidate new products through gamification and crowdsourcing.  Online games are presented to consumers via social media, websites, emails, and on mobile devices.  First Insight's predictive analytic models filter and weight consumer input, ensuring that retailers and brands are listening to the right consumers.  The result has been 3-9% gains in sales and margin dollars for all of First Insight's customers.

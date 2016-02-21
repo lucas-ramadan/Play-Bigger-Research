@@ -1,0 +1,3 @@
+Today’s best apps come alive with delightful interactions and animations. But prototyping and perfecting these experiences forces designers into an unfamiliar world. A world full of complicated animation frameworks, clunky simulation tools, and tedious native code. It’s time for something better.
+
+Pixate is a new platform for mobile interaction design. With it, you can create sophisticated animations and interactions, and refine your designs through 100% native prototypes for iOS and Android. All without writing a single line of code.

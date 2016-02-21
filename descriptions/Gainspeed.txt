@@ -1,0 +1,3 @@
+Gainspeed is redefining how cable networks are built. The company's Virtual CCAP solution enables cable operators to meet skyrocketing capacity requirements, respond to changing market demands, and rapidly deploy new services all while cost-effectively migrating their networks to a software-driven, all-IP architecture.
+
+Gainspeed (formerly known as Cohere Networks) was founded in 2012 and is headquartered in Sunnyvale, CA.

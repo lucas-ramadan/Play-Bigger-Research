@@ -1,0 +1,1 @@
+Zola Books is an eBooks retailer embedded in a social network that enables customers to discover, purchase and enjoy eBooks in a cross-platform social reader.

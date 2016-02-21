@@ -1,0 +1,3 @@
+npm is the official package manager for [Node.js](http://www.crunchbase.com/product/node-js). npm, Inc. supports the JavaScript community by providing the registry where developers publish and share packaged open-source modules.
+
+npm, Inc. is led by Isaac Z. Schlueter (“isaacs of Node”, creator of npm, former Node.js BDFW), Laurie Voss (Yahoo!, Awe.sm, Chief Technical Seldo), and Rod Boothby (Joyent, Ernst & Young, Wells Fargo, Chief Operational Business Person).

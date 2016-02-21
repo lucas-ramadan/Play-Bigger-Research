@@ -1,0 +1,5 @@
+Apprenda is the leading enterprise Platform as a Service (PaaS) powering the next generation of enterprise software development in public, private, and hybrid clouds. As a foundational software layer and application run-time environment, Apprenda removes the complexities of building and delivering modern software applications, enabling enterprises to innovate faster. 
+
+With Apprenda, enterprise development teams can securely deliver an ecosystem of data, services, applications and APIs to internal and external customers across any infrastructure. From the world's largest banks like JPMorgan Chase to healthcare organizations including McKesson and AmerisourceBergen, Apprenda's clients are part of a new class of software-defined enterprises, disrupting industries and winning with software.
+
+Apprenda has raised more than $32M in venture capital from High Peaks Venture Partners, Ignition Partners, New Enterprise Associates (NEA), and Safeguard Scientifics.

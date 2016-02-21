@@ -1,0 +1,5 @@
+According to NextIO separating compute and I/O is the next logical step in server evolution. They deploy and manage server I/O. 
+NextIO extends PCI Express from an 'in the box' solution to an 'at the rack' solution. 
+The same connection point that is used inside the server today for I/O connections is used outside the server with NextIO for I/O connections at the rack level. A single PCI Express cable connects the server to a pool of I/O resources at the top of the rack. This pool of I/O can enable 10Gb Ethernet, Fibre Channel, InfiniBand, SAS/SATA, FCoE, iSCSI, GPU's, or any other type of PCI Express I/O device. NextIO virtualizes this I/O, enabling multiple servers to share a single I/O device.
+
+By pooling I/O devices at the top of the rack through the vNET I/O Maestro, customers can cut capital expenses by 40%, operational expenses by 60% and cabling by up to 80%.

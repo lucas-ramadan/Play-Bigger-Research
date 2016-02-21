@@ -1,0 +1,3 @@
+ReadyForZero creates online financial software that helps people tackle any debt and protect their credit - automatically. It's not a "debt negotiation" or "debt settlement" service. 
+
+The company was co-founded by Rod Ebrahimi and Ignacio Thayer as part of Y Combinator in the Summer of 2010. ReadyForZero is a venture-backed technical product team based in San Francisco.

@@ -1,0 +1,3 @@
+Corona Labs (formerly known as Ansca Mobile) is the maker of Corona SDK, a cross-platform mobile development framework. Using Corona, developers can make graphically rich apps for iOS, Android, Amazon's Kindle Fire and Barnes & Noble's NOOK.
+
+Corona SDK has been used by more than 150,000 developers worldwide and Corona-made apps have had more than 1,000,000,000 sessions in 2012 alone.

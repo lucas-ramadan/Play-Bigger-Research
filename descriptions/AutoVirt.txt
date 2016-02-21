@@ -1,0 +1,3 @@
+AutoVirt, Inc. develops and sells a software solution for assessing, migrating, and managing unstructured data stored on NAS devices and Windows file servers.  AutoVirt is sold in three product editions: AutoAssess performs a thorough assessment of the file system; AutoMigrate combines assessment with fast, transparent data migration; and AutoManage enables ongoing storage optimization by combing a Global Namespace with a platform for assessing and moving data.
+
+The company was founded in 2007 and is based in Nashua, New Hampshire.

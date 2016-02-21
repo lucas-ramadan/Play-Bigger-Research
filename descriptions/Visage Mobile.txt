@@ -1,0 +1,5 @@
+Visage brings the power of data to solving the pressing and strategic challenges companies face in managing their mobility. 
+ 
+Our core product, MobilityCentral™ is a SaaS offering that aggregates and organizes data about users, mobile spend and devices and presents it in a simple, centralized, web-based dashboard.  The data and custom reporting from MobilityCentral delivers improved company productivity, competitiveness and both immediate and long-term cost savings.
+ 
+MobilityCentral is also “open for integration” with other enterprise data such as expense reporting and mobile device management (MDM) to address the rapid growth of employee owned devices (“BYOD”) in the workplace.  Visage is based in San Francisco, CA (www.visagemobile.com).

@@ -1,0 +1,7 @@
+Smore makes it easy for *anyone* to create beautiful, effective online flyers — highly designed single-page websites with a clear purpose, like marketing an app, promoting an event or selling a product.
+
+* Our drag-and-drop editor is fun to use — and impossible to screw up.
+* Every page comes with easy-to-use promotion tools like dead-simple email marketing and ad buying on Google and Facebook. 
+* Built-in analytics create clickable infographics to help you understand your page's performance at a glance.
+
+Smore is now in public beta (since April 2012).

@@ -1,0 +1,7 @@
+Logi Analytics offers the world's most agile web-based reporting and data visualization platform. Logi Analytics gives IT professionals the fastest way to create BI applications, deploy scalable dashboards and reports, and embed analytics into existing applications all for a fraction of the cost of other solutions. 
+
+Unlike traditional business intelligence platforms that are complex and costly, Logi Analytics' agile technology allows organizations to rapidly develop, refine, and adapt BI applications that serve any number of users on any platform, all without extensive development or professional services. 
+
+Additionally, Logi Analytics' flexible and extensible architecture allows developers at software and SasS providers to seamlessly embed these data visualizations directly in their own products and services. 
+
+Along with ease-of-use, affordability is a major component of the Logi Analytics' success. With Logi Analytics, companies are able to create almost any kind of BI application for a single price. And because Logi Analytics' licensing is based on core or CPU, companies can grow the size of their deployments without any increased cost.

@@ -1,0 +1,1 @@
+MojoPages is local search directory that helps people find the best businesses possible by analyzing reviews from across the web to determine the probability that you will have a positive experience with a business. This probability is called "Mojo."

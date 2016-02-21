@@ -1,0 +1,5 @@
+[Boxee](http://boxee.tv) is a partially open-source freeware media player software platform that integrates personal locally stored media with Internet streaming media along with social networking features.  Boxee's social networking component allows users to share information about what they are watching or listening to with other boxee users or friends on social networks like Twitter, Facebook, etc.
+
+Since it is partially open source, users can create their own apps, plug-ins, and skins for it.
+
+The framework for Boxee is based on source code from the [Xbox Media Center](http://xbmc.org) project, a software originally created by Home Theater PC enthusiasts for the first-generation Xbox.

@@ -1,0 +1,9 @@
+Matterport makes it incredibly easy for anyone to create a realistic 3D model of the world around them that they can engage with and share over the Internet. 
+
+Matterport is a 3D Media Technology company using Computer Vision and 3D sensor technologies to create the Next Generation of engaging photography that will enable more immersive interactions on Web, mobile, and VR - including the ability to engage with spaces as they are today and the ability to visualize future changes.
+
+Matterport is the first company to develop a low-cost, easy to use end-to-end system that works for large B2B2C markets, and we’re quickly building an ecosystem around that application class. Professional applications include real estate (residential sale or rental, vacation rentals, commercial), hospitality, event venues, retail planning, business promotion, entertainment and news media, and architecture. Consumer applications include virtual room design to support home improvement and furniture retail applications.
+
+In addition to WebGL delivery to browsers and mobile devices, we have built a VR app that currently runs on Oculus platforms and will soon run on Google Cardboard and other VR platforms as they emerge. This also makes Matterport the only mass-scale capture system for VR content today - making Matterport VR Showcase the first killer app for VR.
+
+This 3D medium will develop into something that consumers will be able to create using their smartphone or tablet. The company also has partnerships with Google (Tango), Intel (Realsense), and others in the mobile industry to enable the simple capture of 3D media from mobile devices.

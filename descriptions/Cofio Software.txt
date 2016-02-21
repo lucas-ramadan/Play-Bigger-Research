@@ -1,0 +1,7 @@
+Cofio liberates the IT Department from the pain and cost of the growing product stack in Data Protection, reducing the load on the IT infrastructure, management time, and the cost to the user by over 10X.
+
+By unifying numerous data protection tools such as disk and tape backup, CDP, replication, searchable file archive and global deduplication into a single downloadable application, Cofio provides 3 to 6 month payback, significant ROI, and drives high-end "enterprise class" features down to the Small Medium Enterprise market. 
+
+As a truly unified data protection solution, our product AIMstor, allows users to create workflows for all data protection needs, and what would take days or weeks with other vendors, can be done on AIMstor in minutes.
+
+ For more information, please visit: http://www.cofio.com

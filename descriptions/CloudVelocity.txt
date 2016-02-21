@@ -1,0 +1,3 @@
+Cloud Velox (Formerly CloudVelocity) was founded by a team with extensive expertise in operating systems, distributed systems, virtualization, cloud, networking and storage technologies.
+
+The team has developed software that enables new and existing Linux and Windows multi-tier applications to run in the cloud without modification, automatically extending the enterprise data center to the cloud so that applications can access any necessary services residing back in the enterprise.

@@ -1,0 +1,11 @@
+Curb is an online and mobile software application that has revolutionized the taxi industry and seeks to change the way people get around. Curb connects you to safe, reliable rides from professional taxi and for-hire drivers nationwide. By bringing technology to the taxi and sedan experience, Curb is offering riders choice, reliability and convenience whenever they ride. 
+
+Curb’s story is told in three parts. Curb began in 2007 as RideCharge, an online service for business travelers to manage the booking and expensing of taxi rides and other local ground transportation. It soon developed a broader consumer focus, hastened by the adoption of smartphone technology.
+
+In our second iteration, Curb was Taxi Magic, the first mobile app for ordering a ride, on-demand. After Apple introduced the App Store as a distribution platform for consumer apps, we built Taxi Magic upon our existing technology and released it in January 2009. Over the next five years, we built a nationwide network of riders, drivers, and taxi companies. In that time, our technology powered millions of rides and highlighted the challenges facing everyday travelers.
+
+In August 2014, Taxi Magic became Curb to deliver an improved ride experience and consumer choice to ground travelers everywhere. All rides begin and end at the curb, and our technology improves the entire experience from curb to curb by eradicating underlying pain points and making ground travel seamless and hassle-free. 
+
+Now, Curb is consistently ranked in the Top 50 for “Travel & Tourism” in the App Store and the Android Marketplace. In addition, we have built the Curb Passenger Information Monitor (PIM) that supports credit card payment and entertaining video content. The Curb Network consists of 35,000 taxis with 90 fleets in 60 US cities. By aligning riders, drivers, and fleets, Curb offers a better overall ride experience.
+
+Curb is based in Alexandria, VA with offices in Chicago, New Jersey, Los Angeles, San Francisco, and Boston. The company is venture-backed by travel management software provider Concur and other investors.

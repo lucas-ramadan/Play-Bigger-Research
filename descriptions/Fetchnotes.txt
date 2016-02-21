@@ -1,0 +1,5 @@
+Fetchnotes makes productivity as easy as writing a tweet. Check it out at www.fetchnotes.com — it doesn't look like your typical to do list!
+
+We're on a mission to help people forget less, do more and feel in control. There are a billion different systems about how you're supposed to stay organized and get things done, but we hold the belief that everyone works differently and there is no one-size-fits-all for staying organized and getting things done. That's why we built a product that works the way YOU do, because you decide how Fetchnotes works as you use it. Categorize your thoughts and to do's on the fly with hashtags, and everything goes to its proper place with no extra work. Need something to go to another person? It's as easy as dropping an @ sign in front of their name.
+
+We are a TechStars Boston (Fall 2012) company, and we're based in Cambridge, MA. The company was founded by University of Michigan students that left school early to pursue the startup.

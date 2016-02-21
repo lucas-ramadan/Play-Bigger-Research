@@ -1,0 +1,3 @@
+Market6 is a big data analytics company that leverages retailers' operational data to improve overall business performance and enable better collaboration with suppliers.
+
+Our flagship is DemandView®, a suite of tools, reporting, and predictive analytics provided via Information Services or SaaS solutions that provides a real-time, forward-looking view of sales, promotion and distribution performance. DemandView is used by the largest supermarket chain in the US, and is accessed by over 400 supplier partners

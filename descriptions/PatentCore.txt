@@ -1,0 +1,5 @@
+PatentCore provides detailed analytics and insights into how specific patent examiners review and approve patent applications.
+
+About 6,500 patent examiners are responsible for reviewing the more than 500,000 patent applications filed each year in the United States.  Not all examiners manage the review process in the same way.  PatentCore.com is the first, and currently the only, comprehensive source of dynamic statistical insight into how specific examiners go about their business.
+
+The examiner-specific patent office data and analysis provided by PatentCore informs not only the decisions made by patent attorneys but also decisions made by patent portfolio managers, business people and patent litigators.

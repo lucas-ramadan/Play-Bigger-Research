@@ -1,0 +1,14 @@
+Zubie is a connected-car app and service that makes driving and car-ownership fun and social for consumers.
+
+The free Zubie App enables easy location tracking of family members, driver-scoring, location-based alerts and private location-sharing during trips with friends.
+
+Upgrading to the paid solution includes the Zubie Key (TM) - a small device that plugs into the car - and delivers real-time engine health monitoring and phenomenal insight into upcoming maintenance costs and car value. Consumers can save money and make highly informed decisions about trade-ins.
+
+In addition to consumer solutions, Zubie's market focus includes fleet-managment and Usage-Based-Insurance (UBI).
+
+
+Our hardware consists of an autonomous plug-in device, the Zubie Key, that plugs into the car's OBD port and includes a GPS unit, an accelerometer, and cellular always-on connectivity back to our cloud servers. The hardware is certified and has passed stingent quality and RF testing.
+
+The Zubie app will be available on iOS in Summer 2013 and coming in Q3 on Android.
+
+Our service platform uses Big-Query-powered graph database and a sophisticated data integration and analytics engine that compiles relevant data from multiple exclusive sources to provide the most meaningful and interesting information about the health and value of your car.

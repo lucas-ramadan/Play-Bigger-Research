@@ -1,0 +1,3 @@
+Electrotank is a leading provider of technology for real-time multiplayer social games, MMOs, and virtual worlds in the browser and on mobile devices. 
+
+For nearly a decade, Electrotank has pioneered some of the most powerful concepts in multiplayer game technology, from ElectroServer,  the high performance game socket server for Flash, Unity 3, iPhone/iPad, Android, XNA, and HTML5, to the Electrotank Universe Platform, a full-featured and highly extensible system architecture for developing social games, MMOs, and virtual worlds in Flash and Unity3D. Clients include Neopets, WebKinz, Meez, SpinMaster, Mattel, Disney, Pixar, MTV, Nickelodeon, and ComedyCentral, among others. Visit us at www.electrotank.com.

@@ -1,0 +1,7 @@
+Loom puts all your photos and videos in the cloud, allowing you to empty your Camera Roll and reclaim lost disk space. 
+-
+Photo management is still broken. Ever since smartphones and tablets were equipped with better cameras, viewing photos and videos on multiple screens has gotten worse. As devices continue to upgrade over the years, photos will become higher resolution and storage space limits will be maxed quicker than before. 
+
+The solution is something that works seamlessly, a personal media library that is the same wherever you go, and there when you need it. That is where Loom comes in. A fast way to access and manage an entire photo and video library on every device without taking up local storage space.
+
+The Loom team is based in San Francisco and backed by investors including YCombinator.

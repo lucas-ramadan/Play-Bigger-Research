@@ -1,0 +1,5 @@
+CounterTack is the leading provider of real-time, Big Data endpoint detection and response technology for the enterprise. CounterTack provides unprecedented visibility and context around operating system and binary behaviors to detect zero-days attacks, rootkits, targeted malware and advanced persistent threats, enabling our customers to improve incident response and advanced threat detection, enterprise-wide.
+
+Built on Big Data architecture to counter endpoint threats at-scale and leveraging tamper-resistant collection for pure behavioral capture on enterprise endpoints, (laptops, servers, workstations, mobile devices) CounterTack dramatically reduces the impact of advanced threats in real-time and post-incident, giving teams an opportunity to defend the enterprise across the entire cyber kill chain. Our 200+ customers leverage next-generation solutions on a global scale, across verticals and within a strategic partner ecosystem that includes MSSP and professional services around incident response and threat remediation.
+
+Based in Waltham, Mass., CounterTack is backed by Fairhaven Capital, TenEleven Ventures, EDBI and a group of private investors.

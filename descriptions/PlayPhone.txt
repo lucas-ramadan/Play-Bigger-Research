@@ -1,0 +1,5 @@
+PlayPhone provides social gaming solutions to the world's leading wireless carriers, aggregating a global gaming community and offering game developers quick access to millions of gamers, seamless monetization and powerful marketing opportunities.
+
+Game developers can use the FREE SDK to give games access to worldwide distribution through traditional, indie and carrier app stores, instant player matching, social gaming hooks and social network integration, virtual economy management tools, real-time analytics and the most advanced payment solutions available including one-click carrier billing. Integration takes just a few hours. 
+
+Headquartered in San Mateo, PlayPhone has a presence in more than 25 countries throughout North America, Europe, Asia, and Latin America. The FREE SDK is available at developer.playphone.com

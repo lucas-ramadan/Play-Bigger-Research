@@ -1,0 +1,7 @@
+Texifter's cloud-based solutions reduce the cost of managing large volumes of unstructured text documents and help users create value from millions of items imported from social media, federated search, bulk email extraction, and electronic document repositories. 
+
+Texifter provides access to a variety of social data via DiscoverText, including the Twitter search API, Facebook, and Gnip PowerTrack for Twitter, Tumblr, WordPress & Disqus. Through "Sifter" it provides access to to every undeleted Tweet in the history of Twitter.
+
+Our advanced social search capabilities leverage metadata, lower barriers to entry, and will change the way users interact with text. Texifter products combine structured work flow and algorithms to identify meaningful word combinations and help users render further judgments and inferences. The text analysis process looks for common parts, structures, and themes throughout unstructured and semi-structured text input and also identifies unique or unexpected parts. 
+
+Core technology was developed by the founder, Dr. Stuart Shulman, at UMass and the University of Pittsburgh. The company possesses an executed exclusive option for a perpetual commercial license for the IP.

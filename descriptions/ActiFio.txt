@@ -1,0 +1,11 @@
+Actifio delivers copy data virtualization to hundreds of global enterprise customers and service provider partners in more than 30 countries. Actifio helps hundreds of global enterprise customers and service provider partners in more than 30 countries around the world virtualize their data, just as they virtualized their servers and networks.
+
+Actifio's Virtual Data Pipeline™ technology decouples data from infrastructure, enabling dramatic improvements in business resiliency, agility, and access to the cloud. 
+
+Actifio replaces siloed data management applications with a radically simple, application-centric, SLA-driven approach that lets customers capture data from production applications, manage it more economically, and use it when and where they need. The result is enterprise data available for any use, anytime, anywhere, for less. 
+
+Actifio started out with a simple idea that managing more data doesn’t need to mean more storage and infrastructure. They help businesses, just like yours, achieve all their strategic priorities around business resiliency, agility, and cloud while dramatically reducing the cost and improving the efficiency of IT operations. With more than two exabytes of application data under management, their customers have freed themselves from the bonds of traditional siloed data management with our radically simple approach. 
+
+Actifio’s founding vision – optimizing the copy data within the data center – has helped establish the $46 Billion global copy data management market, becoming one of the fastest growing enterprise technology companies from inception ever. 
+
+Actifio helps global enterprises and service providers such as IBM, Sungard, HBO, Netflix, Time Warner Cable, NEC, Sanofi, Cole-Haan, KKR, McKesson, IFDS/State Street, Dell, Dassault Systems, and many State, Local, and Federal Government Agencies better utilize their data to drive business outcomes.

@@ -1,0 +1,5 @@
+Hazelcast is a Java-based, open source in-memory platform for data distribution. It develops, distributes, and supports an open source in-memory data grid that developers can include in real time, enabling them to build transactional and terascale in-memory applications.
+
+It provides commercially-licensed enterprise extensions, management centers, and professional open-source training, development support, and deployment support. 
+
+Hazelcast was founded on December 20, 2008, and is headquartered in Palo Alto, California. It was established by [Fuad Malikov](http://www.crunchbase.com/person/fuad-malikov) and [Talip Ozturk](http://www.crunchbase.com/person/talip-ozturk).

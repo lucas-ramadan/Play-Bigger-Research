@@ -1,0 +1,9 @@
+RainStor is a database designed to manage and analyze Big Data for large enterprises at the lowest total cost.
+
+RainStor delivers two editions of its database product, Big Data Retention and Big Data Analytics on Hadoop to efficiently manage multi-structured data sets, fully accessible for ongoing query and analysis to enable the most efficient data management and faster query and analysis.
+
+RainStor's unique product capabilities include granular level data de-duplication and compression which reduces overall storage footprint by 95%+ and which not only speeds up query performance but significantly drives down costs. Compared to traditional relational or data warehouse approaches, RainStor can ingest volumes of network or machine generated multi-structured data at very high speeds with ongoing query access.  Storage and hardware agnostic, you can run RainStor on a SAN, NAS, CAS or HDFS environment in addition to the Cloud.
+
+RainStor sells both directly and through leading partners which include Amdocs, Anritsu, AdaptiveMobile, Dell, Group2000, HP, Teradata among others.  Leading use-cases include a primary data hub for machine generated data and Big Data Analytics on Hadoop.  
+
+RainStor's HQ is in San Francisco, CA with offices in Gloucester, UK.  www.rainstor.com

@@ -1,0 +1,3 @@
+Fumbling around with your phone while driving is at best a bad experience.
+
+Navdy is a Head-Up Display (HUD) for your car that let's you use all the apps you love while keeping your eyes on the road. You can think of it as Google Glass for your car but without the Glasses. Navdy works in the car you already have, simply place it on your dash and connect wirelessly to your smartphone.

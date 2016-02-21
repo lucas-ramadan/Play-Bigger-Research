@@ -1,0 +1,3 @@
+FiscalNote is a privately held company that uses artificial intelligence and big data to deliver immediate predictive analytics of governmental action to pinpoint impact. 
+
+Its flagship platform provides real-time legislative predictive capabilities as well as enterprise collaboration and visualization tools for data on campaign finance, demographics, news, and open data to government relations professionals to help them make faster decisions.

@@ -1,0 +1,5 @@
+LiveAction is an award winning application centric software company designed to simplify network and application performance management. Initially developed in 2007 to aid the US Department of Defense in the operation of its networks, LiveAction commercialized in 2011 and today is being used by the many of the largest companies in the world and the top Fortune 500 companies.  
+
+LiveAction features an innovative visual display, real-time big data analytics and deep control of routers and switches for unparalleled network administration. LiveAction accelerates troubleshooting with its QoS control, application-aware, and WAN functionality developed through engineering partnerships with Cisco Systems.
+
+The software has been dubbed as the leader in bringing Software Defined Networking  (SDN) to the Wide Area Network (WAN).

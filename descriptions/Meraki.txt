@@ -1,0 +1,5 @@
+Cisco Meraki includes a complete portfolio of wireless LAN, switching, security appliances, and mobile device management, all centrally managed from the cloud. Unlike traditional hardware-centric networking solutions, Cisco Meraki is built on intelligent software and rich cloud-based services, simplifying customers' day-to-day operations and enabling the adoption of new applications and devices. 
+
+Meraki was created by Cisco's 2012 acquisition of Meraki - a company that began as the brainchild of MIT PhD students and grew into the leader in cloud networking. Today, the Cisco Meraki team continues to grow explosively, building new products on the Meraki platform, and expanding sales into new markets. 
+
+The group is headquartered in Cisco SF, a center for software innovation based in a brand-new site overlooking the water in San Francisco's Mission Bay. The Cloud Networking Group is hiring top talent in software engineering, sales, sales engineering, technical support, marketing, and operations

@@ -1,0 +1,7 @@
+Tute Genomics is a cloud-based clinical genome interpretation platform that enables researchers and clinicians to utilize human genome data for scientific discovery and individualized treatment.
+
+The cost of whole genome sequencing is dropping rapidly and we are at the beginning of a genomics revolution. As genome sequencing becomes standard practice for both clinicians and researchers, the need for user-friendly, accurate and rapid data analysis becomes the major barrier to making important diagnoses and discoveries.
+
+To meet this demand, Tute Genomics has developed the most advanced analytical methods for genome analysis by incorporating proprietary machine-learning algorithms into a cloud based application that allows researchers to analyze & interpret entire human genomes and discover genes and biomarkers at an unprecedented rate.
+
+Tute is opening a new door by helping researchers and clinicians interpret genetic variants and find disease-related genes. Tute is a robust successor to ANNOVAR, the most widely used genome annotation & interpretation technology with over 800 scientific publications.

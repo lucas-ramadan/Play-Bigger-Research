@@ -1,0 +1,15 @@
+Fitbit inspires people to exercise more, eat better and live
+healthier lifestyles. 
+
+The company is developing an ultra-compact wireless wearable sensor, called the Fitbit Tracker, that automatically tracks data about a person's activities, such as calories burned, sleep quality, steps and distance.
+
+The Fitbit Tracker collects activity data automatically while it is
+worn by the user all day. The collected data is wirelessly uploaded to
+a website where the wearer can see their data and track their progress toward personal goals. The website provides a motivational interface where users can share their progress, compare themselves against similar people and work toward virtual goals with their friends, family and
+co-workers. At the website, users can also manually log nutrition,
+weight and other health information in order to gain a complete
+picture of their health.
+
+Fitbit makes it easy to achieve a healthy lifestyle by automating the
+collection of health data and providing a motivating and entertaining
+user interface.

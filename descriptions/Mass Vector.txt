@@ -1,0 +1,7 @@
+Mass Vector is a web-based Software as a Service that provides real-time analytics and progressive demand prediction based on individual UPCs.  Our data packages empower e-commerce companies to make critical decisions with ease. 
+
+Mass Vector's data collection is very well rounded.  We crawl retail competitors for pricing, availability, and competitive rank on a UPC basis. We then compare this data with our customer's data, current inventory, competitive rank, as well as product trend data, keyword trends, and more. The result is actionable data. Our correlations identify low hanging fruit that can affect our customer's advertising spend, inventory selection, pricing, and additional consumer behavior insights; All while keeping a close eye on competition.
+
+This same data can be packaged differently to Consumer Packaged Goods vendors who are looking to enforce MAP compliance in an easy and automated way. 
+
+Our interfaces will be built for the web and optimized for current standards (HTML5, mobile-responsiveness, mass document storage, etc). The advantages of providing browser based interfaces include developer agility, lightweight and unobtrusive software updates, agnostic device support, and ultimate affordability.

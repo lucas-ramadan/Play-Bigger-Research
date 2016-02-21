@@ -1,0 +1,3 @@
+BugSense is on a mission to set the quality standard for mobile apps. 
+
+Analyzing billion of metrics each month across various platforms, BugSense provides thousands of developers globally - including Fortune 500 companies - with app performance reports that help developers identify issues and create better mobile app experiences.

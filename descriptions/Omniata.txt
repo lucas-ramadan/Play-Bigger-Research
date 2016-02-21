@@ -1,0 +1,3 @@
+Omniata is a unified data platform. The platform is currently tracking 23 billion events per month and its system can handle 200,000 events per CPU core. The company is currently in stealth.
+
+The use of multiple narrowly scoped tools is not helping, but hurting, digital business in their ability to understand and engage consumers. They generate data silos and increase overhead as they were not designed to work together as a whole. What is needed is an ERP for Digital. A set of integrated tools built from the ground up for the challenges of the Digital Era. A platform that makes easy to run a business based on data. And that’s what Omniata is all about.

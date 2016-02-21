@@ -1,0 +1,15 @@
+Barracuda Networks designs, develops, manufactures, distributes, and sells email and web security appliances. It offers cloud-connected solutions that help its customers address security threats, enhance network performance, and protect and store their data.
+
+
+The company’s products include Barracuda Spam Firewall, an integrated hardware and software solution for the protection of email servers from spam, virus, spoofing, phishing, and spyware attacks; Barracuda Web Filter, a solution to enforce organizational internet usage policies; Barracuda IM Firewall, an IM solution that provides IM server and gateway technologies; and Barracuda Website Firewall which offers protection against hackers' attempts.
+
+Watch an analyst interview with Steve Pao, GM, Security Business, here: https://vimeo.com/127091386
+
+
+The company's products also include Barracuda Message Archiver, an email archiving solution and Barracuda Load Balancer that integrates server load balancing and network intrusion prevention solutions into network appliances. In addition, it provides IM protection, application server load balancing, and message archiving appliances as well as Barracuda Backup Service, a local and cloud-based data backup and disaster recovery solution hosted by data centers for businesses in Europe.
+
+
+Barracuda Networks’ solutions deliver protection against enterprise-class spam, spyware, viruses, and IT infrastructure threats. It sells its products through a network of distributors in the United States and internationally. The company sells its appliances, services, and software products to the education, government, financial services, healthcare, professional services, telecommunications, retail, and manufacturing industries.
+
+
+Barracuda Networks was founded in 2002 and is headquartered in Campbell, California with additional offices in the United Kingdom, Canada, Australia, India, Pakistan, the United Arab Emirates, and China.

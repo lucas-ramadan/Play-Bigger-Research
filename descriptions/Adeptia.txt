@@ -1,0 +1,5 @@
+Adeptia provides enterprise software to easily and quickly automate business processes across supply chains using industry-specific standards. Adeptia's business process management (BPM) software allows customers to model and simulate business processes, automate workflows and to integrate disparate information sources, software applications and business users both within an enterprise and across customers, vendors and business partners. Moreover, Adeptia's technology allows customers to design, automate and improve workflows and thereby drive efficiencies.
+
+Adeptia was founded in June 2000, with the aim of taking business process management and integration to a broader market, beyond the Fortune 1000. Adeptia makes this possible by offering an easy to use, quick to deploy, powerful, and cost effective solution.
+
+Adeptia's technology has been deployed in business-critical environments by marquee customers such as Lincoln Financial Group, AT&T/SBC, Pepsi, General Motors, Meadowbrook Insurance, Lawrence Livermore National Lab, Mercedes Benz, Tower Group, and Chrysler.

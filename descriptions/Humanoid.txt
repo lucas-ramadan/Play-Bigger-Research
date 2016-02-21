@@ -1,0 +1,7 @@
+Humanoid is the world's first human brainpower API.
+
+Humanoid offers computer programmers a reliable way to use human intelligence in software applications. Using a drag-and-drop interface, engineers can swiftly create tasks and send instructions to humans.
+
+Proprietary software breaks the tasks into small pieces and routes them to workers across the globe. Meanwhile, Humanoidâ€™s artificially intelligent workforce manager ensures accuracy and prevents fraud without human oversight. 
+
+When the task is complete, developers receive the resulting data through a simple programming interface, known as an API.

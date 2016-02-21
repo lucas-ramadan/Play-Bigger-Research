@@ -1,0 +1,1 @@
+Teneros is a Mountain View, CA based company that focuses on comprehensive "application and data continuity" for Microsoft Exchange e-mail servers, keeping Microsoft Exchange crashes, technology failures, and site-wide outages from taking down a company's messaging system.

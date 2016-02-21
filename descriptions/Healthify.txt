@@ -1,0 +1,5 @@
+Healthify’s SaaS platform helps managed care plans address the social needs in their population to reduce costs, boost quality metrics, and improve case management. 
+
+1/5th of Medicaid spending is impacted by the social needs of patients (food, housing, mental health, etc). However, case managers are understaffed (1:5,000) and rely on paper based workflows, making it tough for plans to address these needs and meet certain quality metrics. 
+
+The Healthify platform addresses these pain points systematically. First, a dynamic screening tool is deployed to assess a patient's social needs and identify who is most at risk. The platform then takes this data and refers patients to the best resources for their needs and automates the follow up process via interactive texts. This information is then relayed back to the case manager in a population dashboard making case management easier.

@@ -1,0 +1,3 @@
+BioScale, Inc., is a life science tools company that has developed a proprietary and platform for life sciences and diagnostics. The company develops products that enable ultra-sensitive, quantitative measurements scaling a wide range of biological analytes and complex matrices.
+
+At the core of BioScaleâ€™s capabilities is the BioMEMS-based Acoustic Membrane and Microparticle (AMMPâ„¢) technology. AMMP technology provides picogram-level detection that outperforms the existing gold standard.

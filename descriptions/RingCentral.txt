@@ -1,0 +1,12 @@
+RingCentral delivers hosted phone systems that are designed for mobile and distributed businesses, and is the market leader in cloud computing-based telephony.
+
+RingCentral helps small businesses manage mobile, fax and e-mail communications. Its core product offering includes [RingCentral Office](/product/ringcentral-office), [RingCentral Mobile](/product/ringcentral-mobile) and [RingCentral Internet Fax](/product/ringcentral-fax), with services provided in the US, Canada and the UK. RingCentral, headquartered in [San Mateo, CA](/maps/search?range=10&geo=san+mateo,+ca), is funded by [Sequoia Capital](/financial-organization/sequoia-capital), [Khosla Ventures](/financial-organization/khosla-ventures) and [DAG](/financial-organization/dag-ventures) and was founded in 2003 by [Vlad Shmunis](/person/vlad-shmunis).
+
+Products
+
+RingCentral Office is a comprehensive Voice over Internet Protocol phone service for small businesses and similar offices. This allows customers to connect teams in different locations.
+RingCentral Office combines a hosted multi-extension business phone system with voice and fax functionality, unlimited calling and pre-configured phones. This allows businesses to connect teams in different locations.
+
+RingCentral Mobile provides customers with a single local or toll free number that connects their existing phone lines as virtual extensions. It is equipped with advanced call forwarding and answering rules. Users can also receive calls, transmit faxes and listen to voicemail online through their RingCentral account.
+
+RingCentral Fax is an internet fax product that gives users the ability to send and receive faxes through the Internet, replacing the fax machine. Aside from the ability to transmit documents online, users can also sign and edit their faxes digitally, eliminating the need to print and scan faxes. Users also receive a text and an email message every time a new fax arrives

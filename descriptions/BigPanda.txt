@@ -1,0 +1,3 @@
+BigPanda's data science platform brings order to the chaos of IT alert noise by centralizing and normalizing all of your monitoring alerts from any system, data center or cloud. Related alerts are automatically correlated and consolidated into logical incidents. BigPanda enables IT teams to see, understand and resolve critical IT issues 80%-90% faster, and with less resources.
+
+BigPanda is a SaaS platform that simplifies troubleshooting in complex IT Operations environments.

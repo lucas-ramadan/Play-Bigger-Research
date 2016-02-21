@@ -1,0 +1,3 @@
+Timbre is a location-based live music discovery app that enables users to find live shows in their area.
+
+Based on the user’s location (or any location searched by the user), Timbre displays a live music calendar/playlist that includes all upcoming live music performances nearby. The app also allows users to listen to music samples from the bands, purchase tickets, and share with friends - directly from the app within three taps.

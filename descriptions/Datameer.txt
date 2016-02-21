@@ -1,0 +1,3 @@
+Datameer's end-to-end big data analytics application for Hadoop enables business users to discover insights in any data via wizard-based data integration, iterative point-and-click analytics, and drag-and-drop visualizations, regardless of the data type, size, or source. 
+
+Datameer uses Hadoop for both storage and compute, and is a fully extensible solution that can integrate with existing data warehouse or business intelligence solutions. Datameer users can also gain instant insights via the Datameer App Market, which offers dozens of pre-built analytic applications across a variety of use cases and data types.

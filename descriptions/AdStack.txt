@@ -1,0 +1,3 @@
+AdStack's technology enables marketers to serve different email content based on when, where, and how a message is opened. This allows for automatic, data driven marketing optimization and greater personalization of marketing emails. 
+
+Because optimization happens when the email is opened, AdStack works with every email service provider, and requires no technical integration.

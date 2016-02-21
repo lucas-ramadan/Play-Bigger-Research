@@ -1,0 +1,12 @@
+Viptela provides technology for virtualization of the Wide Area Network (WAN). It allows global companies to build carrier agnostic, policy-controlled and cost-effective WANs. Its technology has been deployed by scores of Fortune-500 enterprises. And, major carriers like Singtel offer global Hybrid WAN services based on Viptela technology.
+
+Viptela’s secure, overlay WAN technology delivers to enterprises the benefit of:
+• Unified and centralized management of all WAN infrastructure
+• Reduced WAN infrastructure costs by over 50%
+• In-depth control & visibility of application performance
+• Robust-zero trust WAN security
+• Agility, by reducing network change control from months to days
+
+The company has been named a Gartner Cool Vendor and a Next Billion Dollar Start-up by Forbes. Viptela is backed by Sequoia Capital. A 3-minute video overview is here http://youtu.be/0iW-3tt4LH4
+
+Watch an analyst interview with CEO and co-founder Amir Khan here: https://vimeo.com/97890314

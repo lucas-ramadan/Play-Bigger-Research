@@ -1,0 +1,8 @@
+[Jaxtr](http://www.jaxtr.com) first launched in March 2007 with a widget that enables users to receive calls from their friends through a VOIP connection and keep their personal phone numbers private.  
+
+In the past year, jaxtr has introduced a number of additional services in the attempt to monetize the company's 10 million users:
+
+-Jaxtr helps users bypass expensive international phone charges by giving them free local numbers in the countries that they're calling to and charges a nominal fee for connection and the ability to call from a mobile phone. As a marketing ploy, the company permits free calls to other members.
+-Jaxtr uses cafe jaxtr, a social network in which people call one another to discuss similar interests, and free global SMS to attract activity on its website and generate advertising revenue.
+
+The company maintains an advantage over competitors such as [Skype](www.skype.com) by allowing customers to use any phone - mobile or landline - without the need to download software or maintain Internet access, and calling cards by eliminating the need to dial additional numbers and PIN codes.

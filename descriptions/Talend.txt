@@ -1,0 +1,5 @@
+Data-driven organizations use Talend’s integration solutions to gain instant value from their data, by delivering timely and easy access to all historical, live, and emerging data. Through native support of the modern big data platforms including Hadoop and NoSQL, Talend’s zero footprint solution takes the complexity out of integration and equips IT to be more responsive to the demands of the business.  
+
+Based on open source and supported by the broadest ecosystem in the industry, Talend’s unified solutions portfolio is provided under a predictable subscription model and includes big data, data integration, data quality, master data management (MDM), enterprise service bus (ESB) and business process management (BPM). 
+
+Unlike legacy integration architectures that simply cannot scale to efficiently support always more complex needs, Talend’s scalable, future-proof solutions address all existing and emerging use cases of integration.

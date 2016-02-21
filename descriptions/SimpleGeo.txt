@@ -1,0 +1,1 @@
+SimpleGeo provides a ready-to-use location infrastructure that makes it easy to ad location-aware features to applications.  The company was founded in 2009 by [Matt Galligan](/person/matt-galligan) and [Joe Stump](/person/joe-stump) and was acquired by [Urban Airship](/company/urban-airship) in October 2011.

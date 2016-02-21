@@ -1,0 +1,1 @@
+Chartbeat is a betaworks company that provides realtime analytics to Websites and blogs.  It shows visitors, load times, and referring sites on a minute-by-minute basis.  The service also provides alerts the second your Website crashes or slows to a crawl.

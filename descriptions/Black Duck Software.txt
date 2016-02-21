@@ -1,0 +1,8 @@
+Organizations worldwide use Black Duck products to secure and manage open source software, eliminating pain related to open source security vulnerabilities and open source license compliance.
+
+* Identify and inventory open source software used in applications
+* Map to known vulnerabilities and license requirements
+* Continuously monitor and alert for new open source vulnerabilities
+* Assist teams in remediation with orchestration and policy enforcement
+
+Visit www.blackducksoftware.com and follow the company on Twitter at @black_duck_sw.

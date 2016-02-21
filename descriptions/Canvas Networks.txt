@@ -1,0 +1,3 @@
+Canvas is an image-centric social website currently in development, led by [Christopher Poole](http://www.crunchbase.com/person/christopher-poole). Canvas has an imageboard that allows users to anonymously share and comment on media, with eventual plans to include video and audio. The site also has image editing tools built into its interface, so users no longer need to rely on desktop editing programs to manipulate content.  
+
+http://chrishateswriting.com/post/108080554943/a-pragmatists-startup-spin-down
