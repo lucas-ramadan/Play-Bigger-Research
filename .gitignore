@@ -1,14 +1,12 @@
 # Ignore the ODM files, b/c > 100MB files
 data/
 
-# Ignore private Play Bigger CSV database
-Q2_2015_updated_master (v30).csv
-
 # Ignore the CB API key, don't want public on github
 *.CB_key
 
-# Ignore the database files in csv
+# Ignore the database files in csv, xlsx
 *.csv
+*.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
