@@ -4,6 +4,9 @@ data/
 # Ignore the CB API key, don't want public on github
 *.CB_key
 
+# Ignore Tableau Workbook Files
+*.twb
+
 # Ignore the database files in csv, xlsx
 *.csv
 *.xlsx
