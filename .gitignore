@@ -1,5 +1,9 @@
+# ignore base OS files
+.DS_Store
+
 # Ignore the ODM files, b/c > 100MB files
 data/
+descriptions/
 
 # Ignore the CB API key, don't want public on github
 *.CB_key
