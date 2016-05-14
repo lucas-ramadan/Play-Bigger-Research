@@ -1,6 +1,6 @@
 # Play-Bigger-Research
 
-![play-bigger-logo]('/imgs/PlayBigger.png')
+![play-bigger-logo](/imgs/PlayBigger.png)
 
 -----------------------
 
