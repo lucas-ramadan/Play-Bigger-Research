@@ -11,9 +11,10 @@ descriptions/
 # Ignore Tableau Workbook Files
 *.twb
 
-# Ignore the database files in csv, xlsx
+# Ignore the database files in csv, xlsx, json
 *.csv
 *.xlsx
+*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
