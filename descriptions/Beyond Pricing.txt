@@ -1,5 +1,0 @@
-Our team excels at dynamic price modeling, statistics, algorithm design, and real estate analytics. Our focus is on developing pricing software to help hosts & owners maximize the performance of their vacation rental properties.
-
-We believe vacation rental owners should be able to tap into the same data that airlines, hotels, and other travel industries use to determine pricing. We view this as a democratization of data, that you can use to power your listings' performance.
-
-While we focus on software development, we also believe in helping hosts learn the art and science behind dynamic pricing & best booking practices, so they can make informed decisions in managing their property.

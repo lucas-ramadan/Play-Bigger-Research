@@ -1,7 +1,0 @@
-4Home has developed an XML-based software and services platform that OEM hardware vendors and service providers can use to deliver compelling applications and services into the connected home.
-
-4Home's suite of solutions allows users to automate almost any application they want: remotely monitor their homes, get Web-based content on the TV, control home systems from their mobile phones, control all home devices and digital media in one unified user-interface, and track their home energy usage down to the device level. 
-
-The company feels that "home control services" are the next suite of services to be offered by major broadband providers (after the trifecta of voice, video, and data), and consists of home monitoring, media & entertainment management, home health, and energy management.
-
-4Home received five CES 2008 Innovation awards.

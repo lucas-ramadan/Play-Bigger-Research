@@ -1,1 +1,0 @@
-[Rally Software](http://www.rallydev.com/), founded in 2001, provides cloud-based solutions for managing Agile software development. Rally’s offerings include Application Lifecycle Management (ALM) and Project Portfolio Management (PPM) platform and products, Agile consulting services, courses through Agile University, and training courses focused on Agile and Lean practices.

@@ -1,5 +1,0 @@
-InQuira, Inc. provides a software platform that includes knowledge base management, natural language search, and analytics and reporting applications. Its products include Intelligent Search, a semantic search system for understanding and responding to user inquiries; Information Manager, a knowledge management application for identifying, developing, organizing, and sharing enterprise information; and Analytics, a reporting application for managing user experience on the Web and in contact centers. 
-
-The company was founded in 2002 and is based in San Bruno, California.
-
-InQuira was acquired by Oracle in July 2011.

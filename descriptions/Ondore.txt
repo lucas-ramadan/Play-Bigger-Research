@@ -1,3 +1,0 @@
-Ondore combines cutting-edge algorithms, natural language processing and Big Data expertise in order to generate insight into previously undiscovered relationships within large sets of data. Your business can take advantage of these newly discovered connections to make better strategic and tactical decisions.
-
-Ondore’s expertise in data mining and sentiment analysis forms the backbone of its flagship product Ondore Scout, a powerful social listening and monitoring tool

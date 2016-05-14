@@ -1,3 +1,0 @@
-Tokutek's mission is to transform the way data is stored and retrieved and deliver a quantum leap in the performance of databases and file systems.
-
-Tokutek's patent-pending technology is a result of ten years of research and development by experts in cache-oblivious algorithmics and is used to accelerate key database operations by orders of magnitude. Tokutek's solution is based on a revolutionary new Fractal Tree® technology. The Tokutek solution plugs into the back-end of any database, allowing operating practices to continue without change while the performance of the system improves dramatically.

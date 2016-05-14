@@ -1,7 +1,0 @@
-Cylance is the first company to apply artificial intelligence, algorithmic science and machine learning to cyber security and improve the way companies, governments and end users proactively solve the world’s most difficult security problems. 
-
-Using a breakthrough mathematical process, Cylance quickly and accurately identifies what is safe and what is a threat, not just what is in a blacklist or whitelist. By coupling sophisticated math and machine learning with a unique understanding of a hacker’s mentality, Cylance provides the technology and services to be truly predictive and preventive against advanced threats. 
-
-Cylance is based in Irvine, CA. For more information, please visit www.cylance.com.
-
-Watch an analyst interview with CEO Stuart McClure here: https://vimeo.com/129319624

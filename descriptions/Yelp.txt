@@ -1,7 +1,0 @@
-Yelp is an American company that operates an “online urban guide” and business review site. It uses automated software to recommend the most helpful and reliable reviews for the Yelp community and to help them connect with great local businesses.
-
- 
- The company's Yelp website began as an email service for exchanging local business recommendations and later they introduced social networking features, discounts, and mobile applications. It has over 53 million local reviews written by Yelpers and an average of approximately 120 million monthly unique visitors.
-
- 
- Headquartered in San Francisco, Yelp was founded by [Jeremy Stoppelman](http://www.crunchbase.com/person/jeremy-stoppelman) and [Russel Simmons](http://www.crunchbase.com/person/russel-simmons) in 2004. Since then, Yelp communities have taken root in major metros across the US, Canada, UK, Ireland, France, Germany, Austria, The Netherlands, Spain, Italy, Switzerland, Belgium, Australia, Sweden, Denmark, Norway, Finland, Singapore, Poland, and Turkey.

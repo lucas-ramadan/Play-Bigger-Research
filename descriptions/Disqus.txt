@@ -1,7 +1,0 @@
-Disqus is the web’s community of communities. Online communities are where people go to connect with their passions. Disqus makes them better through more enjoyable discussions. And then links all those communities so it’s easier to discover and discuss new stuff worth talking about. 
-
-Disqus reaches over 1 billion people a month, 2.5 million registered communities, and over 100M active commenter profiles. The service offers a networked comment system used to foster engagement and connect audiences from around the web.
-
-Disqus looks to make it very easy and rewarding for people to interact on websites using its system. Commenters can build reputation and carry their contributions from one website to the next. Using the Disqus' built-in network effects, bloggers and publishers can expect a higher volume and higher quality of conversations by using the discussion platform.
-
-Disqus was founded in 2007 by Daniel Ha and Jason Yan to extract the best characteristics of successful online communities and apply them on any blog, website, or application.

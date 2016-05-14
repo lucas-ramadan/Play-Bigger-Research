@@ -1,3 +1,0 @@
-Adify provides the technology and back office services necessary for companies to run their own online ad networks. Adify is a self-service ad network for companies interested in developing their own ad networks. The service allows a publisher to negotiate ad rates, and to reject an advertiser if not interested. Adify about 20 percent of the revenues. Clients include Guardian, Forbes.com, NBC WeatherPlus, Martha Stewart Living Omnimedia and others.
-
-Adify was acquired by [Cox Communications](http://www.crunchbase.com/company/cox-enterprises) Enterprises on April 29, 2008 for $300 million.

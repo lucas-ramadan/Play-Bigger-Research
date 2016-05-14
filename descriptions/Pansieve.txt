@@ -1,1 +1,0 @@
-Pansieve is the maker of cuecard, a tool which brings together the power of mobile devices and web services to gather data on customized digital forms and consume the information on them. It transforms the field data gathering and processing activity into a powerful tool to keep a pulse on the business.

@@ -1,3 +1,0 @@
-MEMSIC Semiconductor Co., Ltd. is a Chinese enterprise that is engaged in the manufacture, research and development, and sale of microelectronic mechanical integration technology chips.
-
-MEMSIC is the first inertial sensor company in the world to integrate amicro mechanical system and mixed signal processing circuit into one single chip. MEMSIC utilizes standard CMOS craft and technology to embed additional functionality and create new products. It also enables the products to extend to more MEMS application fields in addition to acceleration sensors. With the combination of standard CMOS processes, MEMSIC has successfully produced over 20 types of level acceleration sensors with lower costs and higher performance.

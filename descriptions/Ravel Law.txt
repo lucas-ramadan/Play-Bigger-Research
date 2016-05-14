@@ -1,3 +1,0 @@
-Ravel Law is a legal search, analytics, and visualization platform. Ravel enables lawyers to find, contextualize, and interpret information that turns legal data into legal insights. Ravel's array of powerful tools – which include data-driven, interactive visualizations and analytics – transforms how lawyers understand the law and prepare for litigation. In today's global and increasingly digital world, Ravel empowers attorneys to benefit from this huge influx of information and find value in it.
-
-In 2012, Ravel spun out of Stanford University's Law School, Computer Science Department, and d.school, with the support of CodeX (Stanford's Center for Legal Informatics).

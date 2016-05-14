@@ -1,1 +1,0 @@
-Fog Creek Software, a privately held New York software company, was founded in 2000 by Joel Spolsky and Michael Pryor.   The company sells the issue tracking system, FogBugz, the source control system, Kiln, and the general project management system, Trello

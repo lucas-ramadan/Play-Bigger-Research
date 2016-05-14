@@ -1,9 +1,0 @@
-PeopleMatter, Inc. develops the PeopleMatter platform, a cloud-based talent management system for service industries such as foodservice, convenience stores, hospitality and retail. 
-
-Designed for use with browsers, tablets and smartphones, PeopleMatter brings operational efficiency, legal compliance and builds culture across large multi-unit service operations, such as chain stores and large restaurant concepts.
-
-The platform provides a complete hire-to-retire solution for managing hourly and shift workers and their managers, and comprises of four modules: HIRE, with customizable job application form that includes assessments, background checks and tax credit screening, applicant tracking, and onboarding; LEARN, to enable online training to be delivered to every employee; SCHEDULE, which uses labor forecasting to build schedules and can publish shifts to employees mobile devices to enable then to see and trade their shifts; and ENGAGE, which includes performance measurement, communications and employee rewards programs.
-
-The PeopleMatter platform also includes social networking tools to improve communication, find new employees, build brand and drive customer loyalty.
-
-Based in Charleston, South Carolina, PeopleMatter is VC funded and was founded in 2009.

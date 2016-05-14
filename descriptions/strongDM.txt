@@ -1,1 +1,0 @@
-The last decade was all about big data. Businesses invested millions to acquire, store and access exponentially larger quantities of data. Why? Because data driven decisions are better...or so the saying goes. In reality, finding needles in haystacks that large is hard. It's darn near impossible when data is lost, broken or malformed. strongDM is here to help.

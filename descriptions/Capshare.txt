@@ -1,5 +1,0 @@
-Capshare is an web-based cap table management system.  Capshare allows users to manage all aspects of their cap table online and provides several innovative features including waterfall analysis, document automation, electronic signature of option documents, multi-user access, versioning, convertible debt, valuation, next-round modeling, and advanced import / export capabilities in Excel.  
-
-Capshare allows all users of cap table information including company executives, shareholders, optionees, board members, company counsel, and auditors to access the right information at any time.
-
-The system supports option expensing, portfolio valuation and management for investors, and 409A valuation.

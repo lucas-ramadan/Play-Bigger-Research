@@ -1,1 +1,0 @@
-Boxcar provides real time push notifications for the services you love.

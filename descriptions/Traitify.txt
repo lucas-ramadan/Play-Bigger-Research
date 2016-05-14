@@ -1,6 +1,0 @@
-Life, with Personality.  Experience the world’s first personality API.
-
-Traitify provides the ultimate platform upon which personality can be applied in a visual, mobile and embedded format. Traitify breaks the mold of traditional personality assessments by being powered by images, and using only a binary choice of “Me” or “Not Me” to create a fast, interactive, and accurate experience. 
-
-User for engagement, recommendations and people like you matching in:
-Jobs, Careers, Deals, Shopping, Fitness, Movies, TV, Travel, Love, Marketing, Teaching, Games, and News

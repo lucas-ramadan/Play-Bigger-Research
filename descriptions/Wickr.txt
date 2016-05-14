@@ -1,7 +1,0 @@
-Wickr is a free top-secret messaging app allowing its users to send and receive top-secret messages, pictures, videos, audios, and files. Its aim is to provide a free and easy way for anyone to send encrypted messages without a trace. Both sender and receiver must have the app to communicate. Only the receiver is able to decrypt the message once it was sent, and Wickr does not have the decryption keys.
-
-
-Wickr has hundreds of thousands of downloads in over 113 countries. Its clients include celebrities, royalty, reporters, feds, lawyers, doctors, investors, and teens. Its patent-pending technology brings sophisticated security and privacy to everybody. Wickr’s protocol for ephemeral messaging and media uses standard encryption algorithms implemented for mobile devices. This protocol can be integrated into other communications platforms, creating a unified mobile messaging platform that is private, encrypted, and anonymous.
-
-
-Wickr was launched in 2011 and is based in San Francisco, California. It supports the 1st Amendment of the United States.

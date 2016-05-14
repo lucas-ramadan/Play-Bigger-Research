@@ -1,1 +1,0 @@
-Cenzic provides application security testing for enterprise software to Software as a Service, going beyond signature-based tools to automatically find application vulnerabilities.

@@ -1,7 +1,0 @@
-bMobilized is the pioneer in technologies that dramatically reduce the cost, time, and technical skill required to create and maintain state-of-the-art mobile websites.  The company’s patented technology instantly creates mobile websites from desktop websites, and provides easy customization to add mobile-specific features like maps, click-to-call, and m-commerce.  These mobile sites enable businesses to take full advantage of the opportunity to engage customers on their mobile devices.
-
-Offered on a software-as-a-service basis, bMobilized is used by small and medium-sized businesses (SMBs) to broaden their reach, increase customer engagement and grow revenues.  The service has mobilized millions of websites globally and is distributed through a network of partners.  These include SoftBank, Amazon, a joint venture in China, and other SMB service providers such as web development agencies and directory services companies.  These partners benefit from providing a market leading service that generates new revenues streams with very high retention rates.
-
-As bMobilized capitalizes on the desire of millions of business to “get mobile”, it is laying the foundation to provide additional services that help SMBs further engage their customers across multiple device platforms and web services platforms.
-
-The company is based in New York City, and is led by an executive team that has been at the forefront of the some of the most important developments in web and mobile technologies over the past two decades.

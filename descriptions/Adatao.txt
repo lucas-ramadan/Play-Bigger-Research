@@ -1,3 +1,0 @@
-Arimo (formerly Adatao) is on a quest to deliver Data Intelligence for All.
-
-Arimo's Data Intelligence platform allows business users, data scientists and app developers to remove the bottlenecks that block collaboration and create self-service predictive analytics that improve the quality of decisions, make business processes smarter, and enable customer facing data products.

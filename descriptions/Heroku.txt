@@ -1,7 +1,0 @@
-Heroku is a multi-language cloud application platform that enables developers to deploy, scale, and manage their applications without the need for servers or administration. It supports languages such as Ruby, Java, Node.js, Clojure, Python, PHP, Perl, and Scala.
-
- 
-Applications that are run from the in-house server utilize the Heroku DNS server to direct to the application domain. Each of the application containers or “dynos” are spread across a “dyno grid” that consists of several servers.
-
- 
-Heroku was founded by James Lindenbaum and Adam Wiggins in July 2007 and is based in San Francisco, California, USA. The company was acquired by Salesforce in 2011 but operates independently from their office in San Francisco.

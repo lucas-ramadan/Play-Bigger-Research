@@ -1,5 +1,0 @@
-LogNormal measures a website's performance from the end user's perspective.
-
-LogNormal provides a SaaS solution that helps website owners measure the performance of their site from their end users' perspective.  It allows site owners to drill down into several dimensions including Browser, Geographic Location of the user, the user's network throughput and more.
-
-Some of LogNormal's advanced features include the ability to correlate changes in performance with changes in user engagement like bounce rate and conversions, and the ability to integrate with A/B testing tools.

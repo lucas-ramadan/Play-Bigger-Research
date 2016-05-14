@@ -1,5 +1,0 @@
-Appvance PerformanceCloud is a 3rd generation performance test platform for corporate and public facing software applications. QA teams create and execute complex tests 20X faster than older tools.
-•	Scriptless testing provides rapid test development
-•	Appvance runs a dozen open source script languages alongside new Designer scripts with highly detailed controls of simulated users (to1M+)
-•	Appvance drives scalability of apps through deep discovery and diagnosis of bottlenecks and security holes 
-•	Appvance uniquely drives apps through the actual user interface with millions of simulated users, all from the cloud, in the only true beginning-to-end testing available

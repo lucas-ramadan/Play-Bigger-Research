@@ -1,5 +1,0 @@
-LiveMinutes is a free real-time collaboration platform. 
-
-LiveMinutes fills the gap between traditional web-conferencing (Webex, Skype), project management (Basecamp) and document sharing (Google Docs, DropBox, Box, Email)
-
-LiveMinutes works around the concept of workspace. You can create a workspace, invite your team, and start collaborating on notes, designs, slideshows, either asynchronously by leaving comments, or synchronously by launching a conference call, all within a beautiful HTML5 platform.

@@ -1,8 +1,0 @@
-Button's DeepLink Commerce allows apps to extend rich functionality beyond the single app silo into a network of complementary apps. Button provides the tools and connections that allow their mobile app partners to:
-
-- Create better user experiences by extending app functionality from app-to-app.
-- Deliver contextually relevant, personalized and valuable connected experiences.
-- Achieve best-in-class mobile experiences with just a few lines of code.
-
- 
-Button was developed by Stephen Milbank, Tanner Hackett, Chris Maddern, Mike Dudas, and Michael Jaconi. It is headquartered in New York City, New York.

@@ -1,4 +1,0 @@
-BetterFit Technologies is committed to facilitating data-driven healthcare decisions for patients and providers. 
-We're different because we consider the unique complexities of the individual, not just what's known about their drugs. 
-
-Our tools predict the side effects and overall efficacy of drugs on an individual level by comparing your profile of past drug reactions and medical conditions to other users in our database. By learning what methods people like you have had the most success on we can predict which methods are more likely to work for you.

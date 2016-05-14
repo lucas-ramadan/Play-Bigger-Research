@@ -1,3 +1,0 @@
-BitYota delivers a warehouse-as-a-service for Big Data Analytics. SaaS takes away both Big Cost and Big Headache making Big Data analytics accessible in the fastest, affordable way to the most number of users, with no compromise on functionality or service levels.
-
-BitYota was founded by data experts Dev Patel, Harmeek Bedi and Soren Riise. Its core team has 35+ years of big data experience at Yahoo, Oracle, Veritas/Symantec, Informix, BMC, Kabira/Tibco, and Twitter. It has raised $12M through Seed and Series A funding from Globespan Capital, The Social+Capital Partnership, Dawn Capital, Andreessen Horowitz, Crosslink Capital, Morado Ventures, and individual investors Maynard Webb, Graham Summers, Jerry Yang and Sharmila Mulligan.

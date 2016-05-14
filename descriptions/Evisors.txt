@@ -1,7 +1,0 @@
-Firsthand builds SaaS platforms that connect students and alumni for career advice at over 100 universities, including Harvard, Oxford, and Cambridge. We also run evisors.com as our consumer facing platform. 
-
-The problem is that jobs don’t go to the best candidates, they go to the most connected candidates. Referred candidates are ten times more likely to land the job. Our mission at Firsthand is to democratize great careers. We want to give every applicant the best possible career network and odds for success. 
-
-Our platforms connect students and alumni on-on-one for on-demand career conversations, resume critiques, and mock interviews. Alumni give back on their own terms by specifying their areas of expertise and availability. Students get help they want, when they need it. 80% of students report that the help they got directly contributed to their job offers. 
-
-As we grow to connect millions of students and alumni for career success, our vision is to become the world’s greatest job referral platform.

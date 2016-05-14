@@ -1,5 +1,0 @@
-//staq is a game management platform. We make it simple to monetize and optimize free to play games on mobile, web and consoles.
-
-We provide services to manage virtual currencies and virtual goods, player state, targeted promotions, beautiful analytics and data warehousing. //staq integrates with all the major distribution platforms and requires few lines of code to go from nothing to free to play.
-
-//staq is graduated from the Microsoft Accelerator for Windows Azure powered by TechStars 2012.

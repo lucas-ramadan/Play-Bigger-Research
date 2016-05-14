@@ -1,3 +1,0 @@
-PublicStuff helps cities transform their relationship with residents through technology.
-
-PublicStuff is a service that allows you to capture and notify the correct department in a city to get things fixed.

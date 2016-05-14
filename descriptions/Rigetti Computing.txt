@@ -1,3 +1,0 @@
-Rigetti Computing is developing a fault-tolerant gate-based solid state quantum processor.
-
-Their technology is highly scalable and low cost, capable of reaching the large memory sizes needed to run real-world quantum algorithms.

@@ -1,5 +1,0 @@
-Prevedere, Inc is a SaaS Enterprise Software start-up focused on “Big Data” Predictive Analytics for large companies.
-
-Prevedére has produced a one-of-a-kind “External Data Analytics” product that fills a gap in the business intelligence, predictive analytics, and external data provider markets.
-
-Current business intelligence and predictive analytics software does not adequately address external data.  Our software will not only allow the user to identify external business drivers, but will automate the collection, forecast financial results and interface with any existing financial budgeting program.  Prevedére software along with its Software as a Service (SaaS) delivery model is intuitive and full featured, and has gotten rave review in conferences and from their customers.

@@ -1,7 +1,0 @@
-Mozio is an airport ground transportation search engine. We help you travel that final mile from the airport to your final destination.
-
-Mozio originated out of founder David Litwak's travels, where he was constantly frustrated by flying into new destinations and realizing he had no clue how to actually get into the city.
-
-Mozio aggregates all the local taxis, limos, public transit, shared-ride shuttles, airporters, rideshare etc. to help you navigate all the local options and make sure you get the best deal.
-
-We have raised a small seed round from Amidzad Partners, and a few angels, one of whom is the Chairman of the Board @ Orbitz. We are super excited to make this dream a reality!

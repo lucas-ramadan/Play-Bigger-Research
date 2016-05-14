@@ -1,3 +1,0 @@
-SenSage offers patented event data warehouse solutions that provide actionable results from massive amounts of log and event data. 
-
-More than 400 customers have deployed SenSage solutions to reduce security, fraud and compliance risks at a fraction of the cost of traditional data warehouses and log management solutions.

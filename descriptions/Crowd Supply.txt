@@ -1,1 +1,0 @@
-Crowd Supply is a crowdfunding platform focused on new product development projects. The platform supports campaigns, pre-orders (once a campaign has successfully funded) and e-commerce sales of completed, fully manufactured products.

@@ -1,7 +1,0 @@
-A unified survey platform, for any company using forms on a daily basis. Their target now is into Insurance Brokers and Market Research Companies.
-
-To make forms that have some kind of advanced logic (such as the one required to offer an insurance quote), there is always a need for a developer.
-
-They're replacing the developer from the equation, offering an Apple-like interface and experience, at a price and SLA that can rival easily with the big guys in the industry.
-
-They've seen this face to face during their demos via Skype. When they mention the price, eyebrows are raised since it might be a bit expensive, but after a 30 min demo where they replicate almost any form the customer has, right in front of them, they're immediately sold, and price is no longer the issue :)

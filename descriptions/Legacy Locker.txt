@@ -1,1 +1,0 @@
-Legacy Locker allows users to enter their credentials to multiple web services, which are then passed on to friends and family in the event of their death.

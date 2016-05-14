@@ -1,3 +1,0 @@
-BuysideFX is a Currency Management Platform that provides a simple and effective FX trading strategy, solving foreign exchange problems for institutional money managers by supporting the entire lifecycle of trades.  
-
-BuysideFX reduces operational risk, streamlines workflow management, connects with any FX dealer via multi-dealer ECNs or single-dealer platforms, runs custom trading strategies, and provides workflow automation via BuysideFX Autopilot.

@@ -1,5 +1,0 @@
-SpaceCurve is a data platform designed for the Internet of Things. 
-
-The SpaceCurve platform concurrently ingests, fuses and analyzes streaming data from the Internet of Things, Industrial Internet, social media, mobile, weather and other sources with historical data at petabyte scales to allow organizations to continuously create value from data as fast as data is created.
-
-SpaceCurve is a new data platform purpose-built to handle diverse varieties of streaming sources that generate data at rates of millions, even billions of records per second. The platform includes breakthroughs in longstanding computer science problems that allow it to transform the extreme volumes, varieties and velocities of data from the IoT and other big data sources into actionable intelligence and value in real time.

@@ -1,1 +1,0 @@
-KidZui provides a browser that appeals to kids and only lets them navigate certain pre-approved areas of the web.

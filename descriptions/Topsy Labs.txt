@@ -1,7 +1,0 @@
-Topsy is a social analytics company that gives you instant answers to critical business questions through real-time analysis of public conversations. 
-
- Operating the world's only index of the public social web, Topsy is used by some of the largest global marketing, news, entertainment, and financial organizations to get real-time insights into a wide variety of business questions: everything from spotting breaking news and identifying customer satisfaction issues, to gauging response to TV programming and understanding political sentiment.  
-
-Many of the world’s largest brands also use Topsy as their day-to-day social dashboard to discover and track the impact of trending topics and predict future events.  
-
-Headquartered in San Francisco, Topsy is backed by BlueRun Ventures, Ignition Partners, Founders Fund and Scott Banister. For more information visit: http://about.topsy.com.

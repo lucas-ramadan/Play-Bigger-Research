@@ -1,5 +1,0 @@
-A white-label social networking platform for media sites to create their own user-generated stickiness.  In addition to video-uploading, Reality Digital's platform can also handle audio, blogging, mashups, mobile uploads, profiles, forums—pretty much any feature that you'd see on Facebook or Youtube. It also includes a full management suite that lets companies monitor usage and manage advertising campaigns.
-
-Customers include MTV Networks, NFL, MLB, Hyundai, Rockstar Games, Sears, Dreyer's, the Travel Channel and Lonely Planet. Agency partners including Goodby Silverstein & Partners, WhittmanHart Interactive, TracyLocke, MTVN Digital Fusion, TribalDDB, and Fleishman Hillard. 
-
-Reality Digital's products include an enterprise-level social media platform, social media API, small business social network platform, video distribution, management service and an online video remix service in partnership with Adobe's Premiere Express.

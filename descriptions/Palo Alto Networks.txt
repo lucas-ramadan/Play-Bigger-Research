@@ -1,1 +1,0 @@
-[Palo Alto Networks](http://www.paloaltonetworks.com) produces hardware firewall products which take an application-centric approach to traffic classification to enable application visibility and policy control.

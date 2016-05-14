@@ -1,1 +1,0 @@
-Inkling provides a platform for companies to run their own internal or external prediction marketplaces. Notable clients include Abbott Labs, Acxiom, Chrysler, Cisco, CNN, General Mills, Wells Fargo, Electronic Arts, Government of Singapore, Lockheed-Martin, Viacom, ABC-KGO, O'Reilly

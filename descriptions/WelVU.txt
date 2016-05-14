@@ -1,6 +1,0 @@
-WelVU Mobile provides iPad and iPhone based platforms that combine medical illustrations, custom images, and verbal conversation to create patient-specific health information videos that are portable, shareable, and personalized. The WelVU patient engagement platform provides rich features that empower healthcare providers and organizations to deliver customized, specific patient engagement solutions that powerfully address critical business and clinical issues that face major clinics, hospitals, and payers today:
-
-    Stage 2 Meaningful Use
-    Readmission Reduction
-    Quality Scores
-    Health Outcomes

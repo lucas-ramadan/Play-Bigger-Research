@@ -1,1 +1,0 @@
-BackupMyTree's software automatically finds and creates a remote, off-site copy of all of your family tree files. BackupMyTree monitors your family trees for changes and backs up the updated files. Set it and forget it.

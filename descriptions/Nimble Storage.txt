@@ -1,3 +1,0 @@
-Nimble Storage solutions are built on the idea that enterprises should not have to compromise between performance, capacity, ease of management, and price. Nimble's patented Cache Accelerated Sequential Layout (CASL) architecture, designed from the ground up to effectively combine flash with high capacity drives, makes high performance affordable, simplifies and enhances disaster recovery and backup, and delivers stress-free operations.
-
-Nimble Storage is funded by [Sequoia Capital](/financial-organization/sequoia-capital), [Accel Partners](/financial-organization/accel-partners) and [Lightspeed Venture Partners](/financial-organization/lightspeed-venture-partners).

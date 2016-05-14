@@ -1,3 +1,0 @@
-CrowdFlower is the essential data enrichment platform for data science teams. CrowdFlower is focused on making data useful by helping data teams collect, clean and label their data. The CrowdFlower platform combines the best of machine and human intelligence to create high quality large-scale datasets for machine learning and data categorization faster and more cost effectively than any other solution.
-
-Headquartered in San Francisco and backed by Trinity Ventures, Bessemer Venture Partners and Canvas Venture Fund, CrowdFlower serves data science teams at Fortune 500 and fast-growing data-driven organizations across a wide variety of industries. For more information, visit www.crowdflower.com

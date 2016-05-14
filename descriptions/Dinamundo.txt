@@ -1,9 +1,0 @@
-Dinamundo is a social check in service that rewards users who check in to other people with jokes and comedy. 
-
-Ever have that feeling that everyone is just too wedded to the flow of information coming at us through our smart phones? We all talk about unplugging, but very few of us follow through. Maybe unplugging isn’t the right answer. What if, instead of asking people to pretend they weren’t plugged in, we looked for a way to use smartphones to encourage real connections in the real world?
-
-That’s the core concept behind Dinamundo. We’re all about connecting, by checking in to other people to share a laugh.
-
-The Dinamundo iPhone app is straightforward – you check in together by scanning QR codes on each other’s phones. With each scan, you receive a hilarious fortune, written by professional comedians. You can share the fortunes and meetings on Facebook, and keep track of the people you have meet up with from within the app. It’s easy, it’s good for a laugh, and it’s free. 
-
-Dinamundo is brought to you by a small team of start up veterans in San Francisco who believe the world would be a better place if phones encouraged a bit more face-to-face fun.

@@ -1,7 +1,0 @@
-Jasper is the pioneer in cloud-based platforms for the launch, management and monetization of Internet of Things (IoT) deployments around the globe. Their unique cloud solution is a turnkey platform for turning product businesses into service businesses. Jasper is deeply integrated with mobile networks and the enterprise to deliver everything required to run an IoT business, from connectivity and monitoring, to diagnostics and billing, plus anything in between. 
-
-To date, more than 3,500 enterprise businesses have standardized on the Jasper Platform across 24 mobile operator groups worldwide, which represent more than 120 mobile operator networks.  Jasper’s IoT platform is currently used by enterprises in over 100 countries. Jasper is the leader in a new category of business, Service IT, which includes all of the software and systems required to launch, manage and monetize a connected service business. 
-
-Jasper is making the Connected Car a reality for companies like GM, Nissan, Ford, VW and others. Jasper powers Amazon Kindles and the Sony Playstation Vita, and is behind many Smart Metering projects. They are also a leader in the connected home market, with companies like Alarm.com, Telular, Vivint and Securitas using Jasper to give homeowners insight into energy use and security via an app and connected sensors.
-
-Jasper is headquartered in Silicon Valley (Santa Clara, California), with offices in Alpharetta, Georgia, Singapore and the United Kingdom, and a presence in multiple additional countries. Jasper services the world.

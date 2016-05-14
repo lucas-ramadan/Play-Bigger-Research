@@ -1,5 +1,0 @@
-Social Tables is a web-based event planning platform for hospitality, meeting and event professionals. 
-
-They wanted to make event planning less stressful so they built software using cutting-edge technology that consolidates every part of your event planning process. Social Tables eases designing a floorplan, streamlines the arduous seating process, saves you a ton of time, and makes event planning fun again.
-Specialties
-Attendee Information Management, Floor Plan Design, Seating Chart Creation, Guest Engagement, Social Seating, Event Planning

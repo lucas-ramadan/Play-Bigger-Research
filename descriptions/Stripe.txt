@@ -1,7 +1,0 @@
-Stripe is the best way to accept payments online. Stripe aims to expand internet commerce by making it easy to process transactions and manage an online business. We want to increase the GDP of the internet.
-
-We believe that enabling more transactions is a problem rooted in code and design, not finance. Stripe is built for developers, makers, and creators.
-
-We had experienced first-hand the difficulty of accepting online payments. On almost every front, it was becoming easier to build and launch an online business. Payments, however, remained dominated by clunky legacy players. It seemed clear that there should be a developer-focused, instant-setup payment platform that would scale to any size. Stripe launched in September 2011.
-
-Stripe now processes billions of dollars a year for thousands of businesses, from newly-launched start-ups to Fortune 500 companies. Since Stripe powers so many new businesses, it's a snapshot of how the internet is changing; many users are in categories that barely existed five years ago.

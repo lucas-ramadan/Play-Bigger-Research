@@ -1,3 +1,0 @@
-ZipRecruiter.com is a job board distribution service which enables employers to post a job to more than 100 of the web's leading job boards and social networks with a single submission. By providing a central location for finding, screening, and tracking applicants, ZipRecruiter empowers employers to make the best hiring decisions quickly and at a fraction of the cost of traditional job boards.
-
-Job seekers can also use ZipRecruiter to search and apply to millions of jobs online. Uploading a resume is a simple process, while searching and applying to jobs—as well as subscribing to job alerts—is always free.

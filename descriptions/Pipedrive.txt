@@ -1,7 +1,0 @@
-Pipedrive makes sales CRM for companies with big ambitions. The software is used by fast growth companies such as such as Postmates, Fortumo, Blippar and Falcon Social as well as SMBs like 360 Services and Richland Source.
-
-Pipedrive's roots are in direct sales. As sales managers and trainers, two of the co-founders experienced an increasing amount of pain with CRM software. There simply was no good solution for managing the company's sales pipeline. 
-
-So in 2010 they teamed up with talented developers to create Pipedrive, a simple and yet powerful tool for managing sales. 
-
-Pipedrive is used by over 10,000 companies in 100+ countries worldwide.

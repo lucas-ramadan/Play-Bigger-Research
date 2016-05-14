@@ -1,7 +1,0 @@
-Workspot enables firms of any size to securely deliver core business apps and data to any device - iPhones, iPads, Android devices, Windows PC, and Macs.
-
-Workspot re-invents application delivery infrastructure software with a  100% cloud architecture that leverages an organization's existing infrastructure - VPN, AAA, AD, RSA, CA Siteminder, Oracle iDP, and others.  This unique architecture enables rapid time to value - in less than 60 minutes an organization can deliver their applications and data to their devices using their infrastructure.
-
-For end users, the Workspot client provides a single secure workspace to access all business applications and data - SAP, SharePoint, Network Drives, and others. 
-
-Workspot Control is a  single pane of glass that enables  IT to securely deliver web, windows client-server, network shares, hybrid and native applications to iOS, Android, Windows PCs, and Macs.

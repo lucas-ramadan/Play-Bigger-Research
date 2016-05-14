@@ -1,3 +1,0 @@
-StreamBase Systems provides software for rapidly building systems that analyze and act on real-time streaming data for instantaneous decision-making. StreamBase's Event Processing Platform combines a rapid application development environment, a low-latency high-throughput event server, and the broadest connectivity to real-time and historical data. Investment banks, hedge funds, and government agencies use StreamBase to power applications that increase revenue, lower costs, and reduce risk. 
-
-The company is headquartered in Waltham, Massachusetts

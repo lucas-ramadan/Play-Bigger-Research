@@ -1,3 +1,0 @@
-ParAccel accelerates analytics and helps companies accelerate, innovate, and compete. The ParAccel Analytic Platform combines an analytic database with advanced extensibility and integration technology to deliver big analytics anytime, anywhere.  Fortune 1000 customers are testing the bounds of unconstrained analytics with the most prolific, most powerful, most expansive analytic platform.
-
-ParAccel, Inc. was originally founded in mid-2005 by Barry Zane, part of the founding team at Netezza. It maintains offices in Campbell, California (HQ) as well in San Diego, and London.

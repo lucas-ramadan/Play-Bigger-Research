@@ -1,1 +1,0 @@
-Think Big Analytics provides services to assemble Big Data applications. The company provides data science and engineering services to assemble custom applications oriented towards business outcomes. Its “test and learn” methodology was created for Big Data projects to prioritize initiatives and learn from frequent releases.

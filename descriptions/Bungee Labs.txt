@@ -1,3 +1,0 @@
-Bungee Labs is the company behind Bungee Connect, a web-based Ajax environment for creating interactive web applications.  The goal of the product is to allow developers to "efficiently create and instantly deliver rich web applications for the small-to-medium business market."
-
-This is done by providing an online environment where developers and clients don't have to install anything.  Bungee Connect also automates SOAP and REST based web services.  Once projects are complete, developers can easily deploy their applications on Bungee Connect's grid servers.

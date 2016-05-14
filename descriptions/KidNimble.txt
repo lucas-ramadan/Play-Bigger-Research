@@ -1,4 +1,0 @@
-KidNimble is a social search and recommendation engine that connects parents with each other and enables them to discuss and find appropriate after school activities, classes, camps, and other programs for their children. The website enables parents to filter their search based on various categories such as traditional, travel, religious, art, academic, life skills, community service, martial arts, music, and more.
-
-
-KidNimble is operated from Washington, D.C., United States.

@@ -1,8 +1,0 @@
-Nimbula, the cloud OS company, delivers a new class of cloud infrastructure software enabling enterprises and service providers to build private, public or hybrid clouds. Nimbula Director, Nimbula’s flagship product, is scalable, highly automated, easy to use and provides complete control over your cloud. 
-
-Nimbula is a software company founded by Chris Pinkham and Willem van Biljon, the team that developed the industry-leading Amazon EC2, and is backed by a solid team of leading investors, including Accel Partners and Sequoia Capital. 
-Nimbula has joined the OpenStack Foundation to deliver the most advanced cloud software. Read more here: http://blog.nimbula.com/corporate/2012/10/a-new-chapter-nimbula-joins-openstack/ 
-
-Nimbula is headquartered in Mountain View, California and has a development team in South Africa. 
-
-Nimbula was Acquiredby Oracle Corp. last year.

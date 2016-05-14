@@ -1,2 +1,0 @@
-Virgance is a for-profit, web 2.0 company that takes new activism ideas and uses the power of online social networks to scale each idea into a large-scale, citizen-powered global campaign in order to improve the world.
-Virgance plans to build social web applications on top of a platform that auto-deploys our apps to Facebook, MySpace and other open social platforms in order to make activism and civic engagement more fun, more effective, more social, and more widely embraced.

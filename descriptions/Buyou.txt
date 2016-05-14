@@ -1,7 +1,0 @@
-While mobile commerce is growing rapidly, it's difficult for tablet shoppers to keep track of major retail promotions. We're bombarded with email newsletters, and individual retailer apps don't cut it.
-
-Buyou is the single tablet app to browse promotions from major retailers. Consumers can also shop at individual storefronts, and retailers can target customers based on their shopping behavior across the entire platform. Lastly, Buyou is reducing the pain of purchasing on mobile by integrating a convenient in-app checkout through direct retailer partnerships.
-
-Buyou won the "Audience Choice Award" at TechCrunch Disrupt NYC.
-
-Buyou was part of **[AngelPad](http://angelpad.org) #5** in 2012.

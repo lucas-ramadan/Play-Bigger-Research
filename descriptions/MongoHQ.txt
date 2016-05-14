@@ -1,1 +1,0 @@
-Compose (formerly MongoHQ) is the leading provider of data solutions for developers utilizing MongoDB as their data storage technology. They offer shared hosting solutions, replica-set environments, database management tools, user-controlled backups and performance monitoring.

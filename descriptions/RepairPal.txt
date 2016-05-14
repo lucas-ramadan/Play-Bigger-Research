@@ -1,1 +1,0 @@
-RepairPal offers a price estimator for car repairs, a directory of local mechanics, expert car advice, and an online service record.  The site offers detailed price estimates for 100+ most common mechanical repairs, giving consumers the information they need to pick a mechanic. It also gives quality mechanics and dealerships a source of qualified new customers.

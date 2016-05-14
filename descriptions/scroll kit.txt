@@ -1,1 +1,0 @@
-scroll kit makes assembling a page on the web more like drawing on a piece of paper. Our objective was to create a process for making the web that was more like drawing on a piece of paper. A visual tool that was easy for most people to pick up, but could take them to a place that was uniquely their own. scroll kit is in the process of joining WordPress.com.

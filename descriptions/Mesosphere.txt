@@ -1,1 +1,0 @@
-The Mesosphere Datacenter Operating System (DCOS) is a new kind of operating system that spans all of the servers in a physical or cloud-based datacenter, and runs on top of any Linux distribution. Mesosphere's DCOS makes executing and managing applications in a data center just like launching applications on a laptop by running them on Apache Mesos.

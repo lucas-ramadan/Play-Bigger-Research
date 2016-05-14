@@ -1,2 +1,0 @@
-BetterCloud provides critical insights, automated management, and intelligent data security for cloud office platforms. By leveraging open APIs, BetterCloud securely connects with your data at its source, providing maximum control without requiring any cumbersome setup. Offering solutions for both Google Apps and Office 365, BetterCloud is trusted by IT teams in over 50,000 organizations worldwide.
-For more information, visit www.bettercloud.com.

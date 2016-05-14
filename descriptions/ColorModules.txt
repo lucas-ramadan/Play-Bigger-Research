@@ -1,3 +1,0 @@
-ColorModules is an early stage start-up which has created a patent-pending search technology that recommends products to consumers based on "visual" characteristics and preferences, such as color. ColorModules sets out to alleviate the common shopping frustration of searching dozens or hundreds of items to find the right product. Currently, ColorModules focuses on the visually-driven beauty, fashion, and home décor industries.
-
-Its first website, PlumPerfect.com, is for beauty shoppers. Users can take and upload a photo, and the service recommends for them colors and products.

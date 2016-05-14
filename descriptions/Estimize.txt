@@ -1,8 +1,0 @@
-Estimize is an open financial estimates platform which facilitates the aggregation of fundamental estimates from independent, buy-side, and sell-side analysts, along with those of private investors and students. 
-Estimize has over 5149 analysts’ contributors, resulting in coverage on over 900 stocks each quarter. 
-
-
-The firm was founded in 2011 by former quantitative hedge fund analyst Leigh Drogen, with the belief that the financial ecosystem was ready for an estimates platform built with an open and transparent philosophy.
-
-
-The Estimize consensus estimate is regularly referenced in notable financial media sources such as Forbes, Barron’s, The Wall Street Journal, CNN Money, The Street, Investor’s Business Daily and Business Week, amongst others. Estimize data is now available on major financial research platforms such as Bloomberg.

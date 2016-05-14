@@ -1,1 +1,0 @@
-Working to implement medical record solutions in hospitals across the United States, we learned how difficult it was to integrate clinical data. Experiencing the barriers firsthand, we decided to do something about it. We're making it easier to use whatever systems and data you need to deliver better care.

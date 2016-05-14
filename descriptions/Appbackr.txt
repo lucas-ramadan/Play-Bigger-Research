@@ -1,4 +1,0 @@
-appbackr is organizing the world's applications to be the most comprehensive way of comparing, identifying and exploring apps.
-The App Index™ will be an online home for consumers to find apps through our data-driven discovery process; share their favorite apps; and easily share recommended apps with friends.
-appbackr has developed an app taxonomy that makes it easier to find the app which suits your needs.  Each app's behaviors (features, functions, attributes) are weighted based on the sentiment applied against the individual behavior.  Using dynamic and static testing, apps are evaluated on how well they perform. 
-For 2 years, this data has been provided to companies from Intel, to Samsung, to Amazon, to Firefox OS, who use appbackr appscore, a 0-10 rating of app quality, to determine which apps to source and feature.  This data, along with a massive version 2 effort dubbed The App Anatomy Project, is being rolled out to consumers at appbackr.com.

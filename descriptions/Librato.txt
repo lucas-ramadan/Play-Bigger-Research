@@ -1,5 +1,0 @@
-Librato is a Software as a Service company offering a platform for Real-time Operations Analytics that accepts metrics from any source for real-time aggregation and transformation, anomaly detection, alerting, visual analysis and storage. We're dedicated to delivering beautiful, easy to use tools that make managing your operations more fun and efficient.
-
-The service is designed so that users can leverage it for any and all type of metrics, making it possible to see website sign-ups alongside infrastructure and business metrics. Users can aggregate, transform and correlate the data that is important to their business regardless of its origin. 
-
-Data sources can be custom, commercial or open source Data Collectors or applications instrumented using one of the language bindings available for our API. There is an active user community building connectors for existing open source data collectors such as statsd, collectd or nagios, as well as other integrations and applications.

@@ -1,5 +1,0 @@
-Xceedium is a leading provider of zero trust privileged access management solutions. Xceedium products are used by large enterprises and global government agencies to meet stringent security and compliance needs.
-
-Xceedium's world-class technology allows organizations to control access to their networks based on who the user is, and contains the user to explicit resources, which eliminates the risk of allowing untrusted third parties and privileged users on their networks.
-
-The company's technology secures and enforces policies for privileged user and application-to-application passwords. Coupled with cutting edge monitoring capabilities, Xceedium enables commercial and government organizations to address and prove compliance with requirements including PCI DSS, FISMA, NIST-800.53, HIPAA and NERC CIP. Xceedium products are FIPS 140-2 Level 2 and Common Criteria EAL4+ certified.

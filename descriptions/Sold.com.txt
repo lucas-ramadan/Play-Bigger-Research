@@ -1,1 +1,0 @@
-With a few pictures and a description of an item you wish to sell, Sold will price the item, sell it, handle the shipping, and deposit the customers funds directly into their bank account.

@@ -1,3 +1,0 @@
-Distil Networks, Inc. (www.distilnetworks.com | @distil) is the global leader in Bot detection and mitigation offering the first software-as-a-service solution focused on stopping automated attacks to make the web more secure. Distil works like a protective shield and blocks malicious bots, malware, and competitors that try to scrape or copy your website data without permission.  
-
-Prevent web scraping, eliminate form spam and click fraud, reduce infrastructure costs, and regain your competitive advantage with Distil Networks. Visit us on the web at http://www.distilnetworks.com

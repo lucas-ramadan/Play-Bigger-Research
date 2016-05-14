@@ -1,3 +1,0 @@
-As enterprises adopt SaaS applications and users go mobile, IT is faced with securing corporate data that resides on third-party servers and travels over third-party networks to mobile devices. Conventional security technologies are not suited to the task as they were developed to secure the corporate network perimeter. Enter Bitglass.
-
-Bitglass was founded in 2013 by a team of industry veterans with a proven track record of innovation and execution. Bitglass has attracted investment from Tier 1 venture capital firms Norwest Venture Partners and NEA, via $10M Series A investment in February 2013. Bitglass is based in Silicon Valley.

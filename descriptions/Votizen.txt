@@ -1,7 +1,0 @@
-Votizen is a consumer technology company that harnesses social networks to create a connected electorate of voters.
-
-Votizen provides a new way to focus, measure, and exercise political influence by bringing voters together. As opposed to existing tools that help elected officials campaign, Votizen empowers its users to leverage their own networks to self-organize in voting blocks and advance their causes and interests, redefining the political system with the voter at the center -- not the politician.
-
-The company has engineered an entirely new database of voting record rolls across the United States, taking public voting information and normalizing that data to the district level. Then, by mapping those rolls to a user's online identity (through Facebook, LinkedIn, Twitter, and Google+), Votizen is able to create the first graphical representation of a voter's network, across states, political parties, and frequency of voting.
-
-Votizen was cofounded by David Binetti, Jason Putorti, and Matt Snider. The company is nonpartisan, for-profit, venture-backed, and based in Mountain View, CA: www.votizen.com

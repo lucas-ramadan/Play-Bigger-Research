@@ -1,5 +1,0 @@
-Instagram is a free photo sharing application that enables its users to take photos, apply filters, and share them on social networks such as Facebook, Twitter, Foursquare, Tumblr, Flickr, and Posterous. It allows its users to capture and customize their photos and videos with several custom-built filter effects.
- 
-Developed by Kevin Systrom and Mike Krieger, Instagram is compatible with all iOS and Android devices. It is currently used by over 200 million users worldwide.
-
-Instagram was founded in 2010 in San Francisco, California. It was acquired by Facebook in April 2012.

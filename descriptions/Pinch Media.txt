@@ -1,7 +1,0 @@
-Pinch Media helps mobile application developers grow their businesses through free developer tools.  The New York-based startup's initial products are focused on the iPhone SDK.
-
-Pinch Analytics, Pinch Media's first product, is a free analytics library that tracks all metrics necessary to optimize an iPhone application.  Launched before the launch of Apple's AppStore, Pinch Analytics is in many live iPhone applications, including some of the largest.  Regularly compiled in research reports, the aggregated information from Pinch Analytics helps developers plan their release and update strategies.  Developers can gain access to this information and the insights gained from several million application downloads only by installing the Pinch Analytics library.  While early, our platform has already been used to produce 500% increases in application sales.
-
-Pinch Media has also partnered with JumpTap, a prominent mobile network, to offer a Pinch Advertising program.  Pinch Media's technology and JumpTap's dedicated sales force and strong relationship combine to provide unobtrusive mobile banners from high-quality brands for free, ad-supported applications.
-
-Pinch Media is currently accepting additional clients for both Pinch Analytics and Pinch Advertising.

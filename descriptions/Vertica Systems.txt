@@ -1,7 +1,0 @@
-Vertica Systems, Inc. develops data management solutions for storing and querying databases. Its products include The Vertica Analytic Database, which helps in analyzing data; Vertica for the Cloud, a cloud-based analytic database that helps in data management; and Vertica Analytic Database appliance, a hardware/software data management solution, which enables the clients to conduct near-real-time and ad hoc queries. The company's products are used in various businesses and applications, such as data warehousing, RDF data management, data marts, click stream analysis, historical trade tick data, buying pattern analysis, telecommunications, fraud detection, Reg NMS compliance, sales dashboards, Basel II compliance, and other business intelligence applications. Vertica Systems has strategic partnerships with LogiXML, HP, Red Hat, and Business Objects. 
-
-The company was founded as Stonebraker Systems, Inc. in 2005 and changed its name to Vertica Systems, Inc. in May 2005. The company is headquartered in Billerica, Massachusetts.
-
-Vertica's user community has created a Google group.
-Email Address: vertica_users@googlegroups.com
-Home Page: http://groups.google.com/group/vertica_users?hl=en

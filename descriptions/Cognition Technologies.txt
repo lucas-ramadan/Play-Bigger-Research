@@ -1,3 +1,0 @@
-Cognition's Semantic Natural Language Processing (NLP) technologies add word and phrase meaning and understanding to computer applications, providing a technology and/or end-user with actionable content based upon a semantic knowledge of the language.  
-
-This understanding results in simultaneously much higher precision and recall of salient data within the universe of possible results.

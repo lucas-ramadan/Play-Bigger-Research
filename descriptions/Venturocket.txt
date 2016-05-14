@@ -1,3 +1,0 @@
-As the maxim goes, getting a job is all about who people know, about getting their foot in the door. Venturocket introduces job seekers to the actual hiring mangers who have the jobs they want in a casual and informal way based on skills and experience, much like a dating site.
-
-Venturocket's API can also integrate with 3rd party partner sites, adding thier matching and filtering technology as an additional layer on top of their existing features.

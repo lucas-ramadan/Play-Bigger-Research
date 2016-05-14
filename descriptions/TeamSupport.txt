@@ -1,6 +1,0 @@
-TeamSupport is a web based Customer Service & Help Desk application that is all about helping your business provide exceptional customer support through better collaboration and teamwork.
-Most help desk systems are best suited for one-on-one communications with your customers and do not focus on the big picture. TeamSupport is different, bringing visibility to everyone on your team and enabling full collaboration to solve the underlying issues. We strongly believe the best customer support experience is rooted in team collaboration. With your staff working as a team, they can easily draw on each other’s experience to get the best solution.
-
-TeamSupport's online help desk is so much more than just another ticketing system. It was built by an experienced team of software experts who have been in your shoes and understand your unique needs.
-
-Let us show you how TeamSupport can help your entire team to work together to manage your customers' issues and exceed their expectations.

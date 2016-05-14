@@ -1,7 +1,0 @@
-Xtify provides mobile application publishers with the tools to create, manage and execute push and location-triggered notification campaigns across smartphone platforms.
-
-Xtify is based in New York City and founded by Silicon Alley serial entrepreneurs Andrew Weinreich and Jeremy Levy. Backed by venture capital firms Acadia Woods Partners and Seventy Six Capital, Xtify leverages a patent-pending technology to efficiently provide marketers and publishers with a unique platform for delivering geo-relevant messages to mobile users. 
-
-Xtify's platform works worldwide on Android, iOS, Windows, BlackBerry native applications and websites.
-
-http://www.xtify.com/

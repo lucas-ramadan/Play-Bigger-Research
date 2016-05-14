@@ -1,3 +1,0 @@
-LinkCycle, founded at MIT, helps reduce manufacturing costs without having us step foot onto the plant floor—no more hardware, no more audits.
-
-The plant manager can walk through the plant with his iPad and identify how energy is flowing through the machines in his facility, and see opportunities to reduce production costs.

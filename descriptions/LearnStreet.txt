@@ -1,4 +1,0 @@
-LearnStreet is an early-stage startup focused on changing the way people of all backgrounds and skill levels learn how to code.
-We are a small, passionate team of product craftsmen, hackers and designers doing what we love—building a service that inspires users to tap into their amazing potential. We believe putting the power of coding in more hands can unleash a wave of creativity that makes the world a better place for all of us. We’re proud to have already received some kind words from the folks at LAUNCHedu.
-
-The LearnStreet team is based in San Francisco, California and backed by Khosla Ventures.

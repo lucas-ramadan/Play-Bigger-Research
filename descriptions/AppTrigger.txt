@@ -1,3 +1,0 @@
-AppTrigger, Inc. provides telecommunications application connectivity solutions. It offers Application Session Controller software, a network element that sits between the application cloud and the converging network/control layer to provide and manage connectivity to the evolving network for multiple applications. The company also provides support programs, and professional and training services. AppTrigger, Inc. was formerly known as Carrius Technologies, Inc. 
-
-The company was founded in 2002 and is based in Richardson, Texas.

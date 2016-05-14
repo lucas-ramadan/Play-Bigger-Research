@@ -1,3 +1,0 @@
-Pure Storage is pioneering a new class of enterprise storage that has been designed from the ground up to take full advantage of flash memory. The company's products accelerate random I/O-intensive applications like server virtualization, desktop virtualization (VDI), database (OLTP, rich analytics/OLAP, SQL, NoSQL) and cloud computing.
-
-Pure Storage makes it cost effective to broadly deploy flash within the data center, enabling organizations to manage growth within existing power and space constraints. Launching later this year, the company's products are in private beta with select customers. Pure Storage is funded by Greylock Partners and Sutter Hill Ventures.

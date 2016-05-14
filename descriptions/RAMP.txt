@@ -1,5 +1,0 @@
-RAMP (formerly EveryZing) has developed the next generation of search & video experiences to unlock the unrealized value in video content.  Using RAMP, companies are able to drive increased discovery across search and social sites, enhance user engagement through dynamic search and publishing solutions, securely deliver video to intended audiences, and maximize revenue through sophisticated advertising capabilities.
-
-Originally spun out from government sub-contractor BBN in 2006, RAMP has an extensive patent portfolio covering its speech-to-text, natural language processing (NLP) and search engine optimization (SEO) techniques. These technologies allow for the automatic creation of metadata for audio and video content so that these assets may be treated like “native citizens” in popular content management systems, in search, and other applications that are dependent on rich metadata.  
-
-RAMP’s solutions are used by leading media and publishing companies, such as NBCUniversal, FOXSports, Meredith Publishing, as well as across a broad range of enterprises – from financial services, to pharmaceuticals/healthcare, to energy, to high tech and more.

@@ -1,1 +1,0 @@
-Torbit is a cloud-based website accelerator service that makes websites faster.  Torbit's technology is built around many of the performance best practices recommended by companies like Google and Yahoo.  Torbit speeds up your site by automating these performance optimizations that are otherwise tedious for you to do by hand.

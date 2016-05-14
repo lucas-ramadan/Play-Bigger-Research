@@ -1,5 +1,0 @@
-Veodia's enterprise video service (SaaS) enables existing business environments and processes with video and screen recording capabilities.
-
-Using the Veodia service, any employee can easily create visual content in context and share it securely with other employees, partners or customers.
-
-Veodia's customers include Sun Microsystems, Cisco, Stanford University.

@@ -1,3 +1,0 @@
-TelePharm connects every pharmacist to any pharmacy through it's verification and video counseling software solution. 
-
-TelePharm is a turnkey telepharmacy solution that dramatically reduces labor costs, human errors, and workflow inefficiencies, enabling a remote pharmacist to inspect and verify prescriptions at each telepharmacy to ensure accurate dispensing by onsite technicians. TelePharm integrates seamlessly with any Pharmacy Management System, providing a remote verification and web-based workflow software with a HIPAA-compliant video counseling component. TelePharm began as a solution for the economic challenges faced by rural pharmacies, but our tools scale to fit a pharmacy of any size and script volume as well as multi-store scenarios.

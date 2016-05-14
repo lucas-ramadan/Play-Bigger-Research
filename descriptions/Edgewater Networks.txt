@@ -1,9 +1,0 @@
-Edgewater Networks is a leading provider of Enterprise Session Border Controllers that connect, protect, optimize and monitor IP-based communications.  Edgewaterâ€™s solution ensures the secure and reliable delivery of converged voice, video and data services while providing the policy management and enforcement needed for todayâ€™s collaborative communications and applications.
-
-As enterprises and service providers increasingly deploy Session Border Controllers to manage their growing VoIP, video conferencing and other Unified Communications applications, Edgewater Networks addresses their most significant challenges to secure and reliable operations, including:
-â€¢	Device and protocol interoperability
-â€¢	Security and policy management
-â€¢	Troubleshooting
-â€¢	QoS
-
-With more than 150,000 systems deployed worldwide to leading enterprises, carriers, cable operators, service providers and partners, Edgewater shipped an estimated 21% of all enterprise session border controller sessions in 2010.

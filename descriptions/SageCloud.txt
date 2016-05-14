@@ -1,1 +1,0 @@
-SageCloud is delivering breakthrough price points for Cold Storage Tiering – cost-effectively managing petabyte-scale storage of data that is written once but infrequently accessed. With SageCloud, data center professionals can reap the benefits of storage on disk at the price points of storage on

@@ -1,6 +1,0 @@
-GotVoice creates digital voice applications that allow consumers and businesses to unify their voice communications through their email, mobile phones, or via the GotVoice Website. 
-
-The features of its products include Voicemail-to-Text, Visual Voicemail, the ability to share voice messages as digital audio files, and the unification of wireless, landline, PBX and VoIP voicemail.
-
-Founded in 2003 by industry executives from [RealNetworks](http://www.crunchbase.com/company/realnetworks), [Microsoft](http://www.crunchbase.com/company/microsoft), Starwave, AT&T and Corbis, GotVoice works with all major mobile, business and residential carriers. 
-

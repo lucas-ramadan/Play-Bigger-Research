@@ -1,1 +1,0 @@
-Recovers makes disaster response smarter by providing a lightweight, community-powered toolkit. Our software helps communities prepare together, mitigate risk, and match local resources with local needs.

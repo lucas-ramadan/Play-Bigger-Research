@@ -1,7 +1,0 @@
-This company was founded in 2006 as Foxmarks, offering a popular free bookmark synchronization add-on for the Firefox Web browser.
-
-In February 2009 the company release versions of their bookmark sync product for Internet Explorer and Safari (Mac only).
-
-In March 2009, the company announced their new name Xmarks and their new web discovery service. Xmarks.com shows site information for a broad range of URLs and, for each site, generates a list of topics and similar sites based on millions of users' bookmarks.
-
-The Xmarks brower add-on takes the site info and similar sites on Xmarks.com and displays them directly in the browser bar and on the search results page of Google, Yahoo, and Bing.

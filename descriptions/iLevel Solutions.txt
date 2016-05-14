@@ -1,5 +1,0 @@
-iLEVEL is a cloud-based enterprise software solution for the private capital investment market.
-
-Originally built by The Blackstone Group to create a database of financial performance data reported to Blackstone by its private equity portfolio companies, iLEVEL was spun out in 2010. Investors include Blackstone, The Carlyle Group, Duff & Phelps, Hamilton Lane, Swift River Investments and Egis Capital Partners.
-
-Portfolio reporting now flows through iLEVEL for 33% of capital raised for private equity buyout funds in the past ten years. iLEVEL also serves other private capital strategies including real estate, credit and debt funds.

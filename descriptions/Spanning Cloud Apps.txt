@@ -1,5 +1,0 @@
-Founded in 2010 and headquartered in Austin, Texas, Spanning was created with a singular purpose – to protect SaaS applications from data loss caused by user error or malicious action. The company provides powerful, reliable, enterprise-class data protection for Google Apps and Salesforce.com.
-
-The company's flagship product and the top-rated backup solution on the Google Apps Marketplace, Spanning Backup is the most reliable and respected cloud application backup and recovery solution for IT decision-makers. It's won high praise from customers and has become the most highly-rated security and compliance application on the Google Apps Marketplace.
-
-Investors include Foundry Group of Boulder, Colorado.

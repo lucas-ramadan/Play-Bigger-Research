@@ -1,5 +1,0 @@
-Smarsh provides cloud-based archiving and compliance solutions for companies in regulated and litigious industries.
-
-The company’s centralized platform provides a unified compliance and e-discovery workflow across a range of digital communications systems, including emails, public and enterprise social media, websites, and instant and mobile messaging. It serves the regulatory compliance, e-discovery, and record retention requirements of financial services, healthcare and life sciences, public sector, and other industries.
-
-Smarsh was founded in 2001 and is based in Portland, Oregon with additional offices in Atlanta, Georgia; New York, New York; Boston, Massachusetts; Los Angeles, California; and London, United Kingdom. It is a former subsidiary of Quest Software Inc.

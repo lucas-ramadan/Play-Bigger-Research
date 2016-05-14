@@ -1,3 +1,0 @@
-Zephyrus Biosciences provides research tools to enable protein analysis at the single cell level. Addressing the burgeoning single-cell analysis market, our first product, the scWestern system, enables western blotting on individual cells for the first time. Researchers will utilize Zephyrus’s products to gain new insights into the biology of cancer, stem cells, neurology, and human disease and development.
-
-Zephyrus spun-out from Dr. Amy Herr’s laboratory at UC Berkeley in 2013 and is affiliated with QB3; BayBio; StartX Med, a Stanford-affiliated nonprofit technology accelerator program; and Berkeley Skydeck, the premier accelerator at UC Berkeley.

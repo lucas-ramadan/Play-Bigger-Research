@@ -1,5 +1,0 @@
-Jibbigo is the world’s first speech-to-speech translator on a phone that runs online and even off-line, independent from the Internet. Travelers around the world use Jibbigo to communicate in foreign countries and health-care workers overcome the language challenge in humanitarian missions. 
-
-Jibbigo is developed by Mobile Technologies, who have also developed a number of other cross-lingual communication tools, such as the first automatic, simultaneous interpretation service for lectures in educational settings, so that ideas can transcend nations and cultures.
-
-Mobile Technologies was founded in 2001 with the goal of breaking through language barriers to open up communication between the people of the world. With 6,000 languages in the world, the language divide presents the greatest human communication challenge.

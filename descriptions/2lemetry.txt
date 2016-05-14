@@ -1,3 +1,0 @@
-2lemetry is a cloud platform company focused on IoT in the Enterprise to drive business transformation and innovation. 
-
-The platform provides a scalable, high performance middleware and development layer for companies looking to connect device data with core Enterprise decision making systems such as CRM, supply chain management, quality assurance and service. In doing so, 2lemetry transforms device data into real-time actionable intelligence to help companies cut costs by streamlining processes, delight customers though improved service, and drive innovation by creating new products, services and revenue streams.

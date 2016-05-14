@@ -1,5 +1,0 @@
-Since 1984, StatSoft has been developing the Statistica suite of analytics software products and solutions.
-
-Statistica provides the most comprehensive array of data analysis, data management, data visualization, and data mining solutions. Techniques include the widest selection of predictive modeling, clustering, classification, and exploratory procedures in one software platform.
-
-Statistica is a tried and true analytics platform with more than two decades of history in delivering successful business results for our customers, a global user base of more than one million users.

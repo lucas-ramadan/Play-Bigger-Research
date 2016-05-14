@@ -1,3 +1,0 @@
-SiliconBlue® provides programmable logic solutions for consumer, battery-based mobile applications such as smart phones, eBooks/ePaper, netbooks, digital picture frames, mobile internet devices (MIDs), portable media players, hand-held POS systems, medical instruments and flash camcorders.
-
-The company's iCE65™ mobileFPGA™ devices enable designers of these mobile products to implement differentiating product features quickly and easily. By combining the reprogramming benefit of FPGAs with the low cost, low power and single-chip benefits of ASICs, the iCE65 family offers the best-of-both-worlds solution for the handheld consumer system designer.

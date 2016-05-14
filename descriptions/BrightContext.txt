@@ -1,7 +1,0 @@
-BrightContext provides a massively scalable, cloud-based data stream processing platform that makes it easy to deliver real-time stream analytics from any data source. 
-
-Trusted by enterprise customers for high-visibility applications, BrightContext is used for stream analytics, live visualization, monitoring, and generating alerts from high-volume data sources such as: web click and activity data, mobile activity data, social media, audience sentiment data, point-of-sale data, and transactional data. 
-
-BrightContext is self-service and easy-to-use, and works in most any environment -- providing the agility to deliver immediate insight in an increasingly fast-paced, data-driven world. 
-
-BrightContext is Powering Real-Time.

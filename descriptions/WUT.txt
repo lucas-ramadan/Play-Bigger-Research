@@ -1,1 +1,0 @@
-Wut is an almost absurdly simple app that takes over the lockscreen. It’s basically just a text screen with a fluorescent background

@@ -1,5 +1,0 @@
-Lever builds applicant tracking software for modern hiring.
-
-Recruiters, managers, interviewers, and candidates are currently forced to use outdated, clunky software. Hiring skilled labor is critical to every business, and companies need a feature driven product that allows them to hire collaboratively. 
-
-Lever brings a fresh approach and a passion for excellent software. They focus on the candidate-company relationship and deliver unique insights into companies' talent. They streamline the hiring process by integrating with Google apps to make hiring efficient and easy.

@@ -1,6 +1,0 @@
-Datorama is a software-­as-a-­service big data management platform for advertisers and ad agencies.
-
-They integrate and track data from different advertising data channels, mash them up and provide advanced analytics / predictive analytics.
-
-By easily integrating marketing channels and creating a Marketing specific data models, they offer a new way of Marketing Data management allowing the Advertiser to seize ownership of the data and increase visibility and control.
-They allow better ROI optimization based on a holistic view, discovery of new revenue streams, suggestions for action and discovery of wasted budget. They track the consumer’s touch points with the brand across channels, providing true cross channel analytics.

@@ -1,6 +1,0 @@
-A cloud-based service that allows any company to provide live support to online customers. 
-Vivocha enables businesses to seamlessly communicate with prospects and customers right on the website, using any combination of VoIP (audio and video), chat, audio callbacks and collaboration tools, like assisted browsing, form & document sharing.
-
-Vivocha.com is the simplest and most effective multi-channel online customer engagement service.
-
-Online customer interactions made easy

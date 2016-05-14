@@ -1,3 +1,0 @@
-Lookingglass Cyber Solutions is a cyber security software company delivering deep visibility into the Internet threat landscape. Lookingglass helps organizations accurately and precisely anticipate and protect against targeted attacks by gathering, correlating, and analyzing threat information from within their own networks, supply chains and the rest of the Internet. The company’s core product, ScoutVision, leverages an open architecture, which provides source and sensor agnostic Internet threat visibility - to help users rapidly respond to enterprise network threats – often before they can impact operations.
-
-Watch an industry analyst interview CEO Chris Coleman here: https://vimeo.com/129317768

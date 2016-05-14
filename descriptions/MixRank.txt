@@ -1,6 +1,0 @@
-MixRank is a Customer Discovery Platform that helps sales teams automate lead prospecting and find new customers.
-
-MixRank scans millions of companies, websites, and mobile apps, automatically identifies the ones most likely to become your most valuable customers, and instantly delivers them to your sales team as high quality, up to date leads.
-
-By automating lead generation and prospecting, MixRank frees sales teams to focus on closing deals.
-Sales teams that use MixRank experience significantly shorter sales cycles, lower cost per lead, and increased conversion rates. Hundreds of customers, from the fastest growing startups to major enterprises rely on MixRank as the highest quality source of leads for their sales team.

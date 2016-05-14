@@ -1,5 +1,0 @@
-Rockmelt is a social web browser built off of Chromium and boasts deep integration with both Facebook and Twitter with its "Edges" which are filled with friends that are online and feeds that you follow complete with update badges.
-
-It also sports what some believe to be the next big search revolution. Unlike Google's universal navigation field, RockMelt has a dedicated search field that shows complete search results as a drop down overtop web pages. This is helpful when switching between different search results from one single query. Rockmelt also has its own URL shortener me.lt. The browser is supported on both Windows and OS X platforms.
-
-It is backed by one of Silicon Valley's most well-known personalities, Marc Andreessen. The principal engineer for Netscape Navigator, Robert John Churchill, is the principal engineer for RockMelt as well.

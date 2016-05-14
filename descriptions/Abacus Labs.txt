@@ -1,3 +1,0 @@
-Abacus is replacing the expense report with the first real-time employee expense solution. By leveraging the data collected as expenses are submitted, managers get instant visibility into employee spend. Abacus processes next-day reimbursements, enforces your expense policy, reconciles corporate cards, and syncs with your accounting software. Businesses like Foursquare, Coinbase and Pinterest, use Abacus to simplify their expense management.
-
-Learn more at www.abacus.com

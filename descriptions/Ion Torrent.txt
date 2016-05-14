@@ -1,3 +1,0 @@
-Ion Torrent, a wholly-owned subsidiary of [Life Technologies](/company/life-technologies), has pioneered an entirely new approach to sequencing that enables a direct connection between chemical and digital information. Ion Torrentâ„¢ technology doesn't use lightâ€”it's the first commercial PostLightâ„¢ sequencing technology.
-
-Instead, Ion Torrent marries simple chemistry to incredibly powerful, proven semiconductor technologyâ€”it's Watson meets Moore. The result is a sequencing system that is simpler, faster, more cost effective and scalable than any other technology available. The company's goal is to democratize sequencing and make this critical technology available to every lab.

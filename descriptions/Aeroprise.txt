@@ -1,3 +1,0 @@
-Aeroprise helps Fortune 500 companies and major public institutions extend IT service management functionality to BlackBerry and Windows Mobile devices, cell phones and barcode scanners.
-
-Aeroprise Mobilityâ„¢ can deploy in less than a week and can automatically inherit and update BMC Remedy workflow on handheld devices, and lets users personalize their mobile experience. With a more productive IT staff and a 360-degree view of IT services, Aeroprise customers enjoy lower support costs, reduced asset downtime and improved customer satisfaction. Headquartered in Mountain View, California, with operations in Bangalore, India, Aeroprise is a privately held company.

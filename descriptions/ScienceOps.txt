@@ -1,9 +1,0 @@
-ScienceOps creates, validates, and optimizes Algorithms. 
-
-Originally specializing in developing algorithmic solutions to help start-ups get off the ground quickly and also working to help established companies develop customized algorithms to optimize their business ROI ScienceOps' team of Ph.D. Scientists have many years of experience across multiple fields.
-
-Taking a slight shift in Business Model, ScienceOps has now started developing its own line of products and services as well. 
-
-Their most recent adventure has been with their new service AdMetrica. AdMetrica is a patent pending set of algorithms that work to optimize Google Content Network (GCN) Advertising.
-
-The cornerstone of AdMetrica's power comes from its Keyword Optimization Algorithm. AdMetrica is the leading edge of GCN Advertising Technology.

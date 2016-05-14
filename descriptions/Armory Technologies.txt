@@ -1,5 +1,0 @@
-Armory is the most solid and secure Bitcoin wallet.
-
-Bitcoin wallet technology is complex and Armory is the most secure and feature-rich Bitcoin wallet application. Armory pioneered the "cold storage" concept of storing and transacting Bitcoin funds where the private keys are stored only on a computer that is kept entirely offline and supports backing up Bitcoin funds to a printed paper backup.
-
-Armory is tailored for standard, advanced and expert Bitcoin users and is licensed under the "AGPL version 3" which guarantees that Armory and any derivative programs based on Armory source-code will always be open-source.

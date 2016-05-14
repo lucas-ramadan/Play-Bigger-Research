@@ -1,7 +1,0 @@
-At Atlantis, our mission is to change the economics of storage in the datacenter. To turn upside-down the traditional approaches and apply innovative software with hardware and hyper-converged solutions to fundamentally transform how the datacenter consumes storage.
-
-Atlantis, winner of the Best of VMworld in Storage 2014, Best of VMworld in Desktop Virtualization 2012, and Best of Citrix Synergy awards, offers the industry’s most flexible and powerful software defined storage platform. Atlantis USX delivers better performance than the fastest all-flash array, at half the cost of traditional SAN, on any class of enterprise storage.
-
-Atlantis USX is a 100% software-only solution purpose-built to boost any virtualized workload’s performance by up to 10x, while also increasing effective storage capacity by up to 10x. To date, Atlantis has deployed software to manage and optimize tens of Petabytes of software defined storage for more than 800,000 VMs globally across hundreds of mission critical deployments, including some of the largest successful virtualization deployments in the world.
-
-Atlantis Computing is privately held and funded by Adams Street Partners, Cisco Systems, El Dorado Ventures and Partech Ventures, with headquarters in Mountain View, California and offices in Europe.

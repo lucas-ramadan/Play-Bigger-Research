@@ -1,5 +1,0 @@
-[WePlay](http://www.weplay.com) is a social networking site for youth athletes as well as a team management application for their parents and coaches. The youth athletes who use the service are  able to set up their profiles with pictures, exchange communication with other friends on the network, upload videos of sports events, and play games.  
-
-Parents are able to view practice schedules, organize car pools with other parent users and exchange advice about equipment and other relevant interests. 
-
-Coaches will be able to directly communicate with their players and parents, as well as learn about strategy and exchange game plans with other coaches.

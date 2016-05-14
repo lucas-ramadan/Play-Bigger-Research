@@ -1,7 +1,0 @@
-ShopLogic gives e-commerce merchants an intelligent way to optimize and manage promotions on their site.
-
-Online merchants now must constantly promote on their site because shoppers have come to expect discounts and deals, but promotions kill financial margins.
-
-ShopLogic lets merchants promote intelligently and determine what to offer, who should get them, and how much to discount. The best promotion is delivered for each shopper, resulting in more margin and sales for merchants.
-
-ShopLogic was part of **[AngelPad](http://angelpad.org) #3** in 2011.

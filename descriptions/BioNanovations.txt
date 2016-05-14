@@ -1,5 +1,0 @@
-Currently, it takes 3-5 days to diagnose Staph. infections however, some strains are aggressively virulent which can lead to a patient's limb amputation or death in under 48 hours. Further, the spread of these aggressive strains cannot be geophysically monitored to track epidemiological trends (bioinformatics).
-
-To solve these problems, BioNanovations is currently developing a handheld, integrated real-time diagnostic platform which decreases the diagnostic time of Staph. infections from 3-5 days to under 30 minutes. By enabling real-time bacterial diagnostics, our platform enables immediate transmission of diagnostic metadata thus creating a new market for real-time bioinformatics.
-
-As our customers, healthcare professionals, hospitals and government agencies will benefit by restoring temporal diagnostic efficiency, providing access to real-time epidemiological trends and, most importantly, reduce patient morbidity and mortality.

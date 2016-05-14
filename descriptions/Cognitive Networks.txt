@@ -1,5 +1,0 @@
-Cognitive Networks partners with TV set manufacturers to enable content providers, advertisers, and others to provide greater engagement and interactivity to TV programming. Cognitive Networks’ ACR platform makes Smart TVs aware of the programming that they are displaying, enabling transactions, informational requests, or personalization of the viewing experience.Right now Smart TVs do not know what content they are displaying –
-and Broadcasters do not know which TVs are displaying their content.
-Our core technology enables Smart TVs to become content aware.
-Our platform creates a network of Broadcasters that know which TVs
-are displaying their content.

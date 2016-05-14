@@ -1,3 +1,0 @@
-HipChat launched in 2010 to give companies and teams a collaboration and chat service that was built just for them. They wanted to combine the power of group chat and the simplicity of consumer IM services with the administrative controls that companies need.
-
-In March 2012, HipChat was acquired by Atlassian.

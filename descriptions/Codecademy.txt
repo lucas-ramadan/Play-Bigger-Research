@@ -1,5 +1,0 @@
-Codecademy helps millions of learners around the world obtain the skills they need to succeed in today’s digital world -- all in a way that’s fun, free, and accessible anywhere. 
-
-Codecademy is different from any other learning experience; it’s designed to complement the way people want to learn in the twenty-first century. Through Codecademy's web- and mobile-based platforms, learners discover concepts such as HTML/CSS, Javascript/jQuery, Python, Ruby, PHP, and APIs by actually building things and getting constant feedback from peers. 
-
-Codecademy is an entirely new, networked approach to learning in which you interact with students across the globe, build amazing projects, and - most importantly - apply your skills to improve your life.

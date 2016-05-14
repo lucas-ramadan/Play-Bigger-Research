@@ -1,3 +1,0 @@
-Sonalight is an app that lets you text whilst you drive.
-
-Text by Voice by Sonalight allows you to safely text while you drive entirely through voice. There’s no need to touch or look at the screen at all. Text by Voice will automatically read incoming text messages aloud and give you a chance to respond. You can also set an auto responder for incoming text messages, and have Text by Voice start automatically when you start driving. Text by Voice lets you compose texts on the fly. It runs in the background so you can use other apps at the same time.

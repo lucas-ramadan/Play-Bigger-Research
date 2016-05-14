@@ -1,5 +1,0 @@
-myDIALS is the leading provider of personalized Business Intelligence for the cloud. 
-
-The only SaaS BI solution that combines best practices embedded in pre-defined modules, with quick personalization and advanced, easy to use analytics, myDIALS enables all users to view, filter and interact with data to make more informed decisions, more quickly.
-
-myDIALS features rapid, automated deployment, dynamically integrates with virtually any data source for immediate data update and availability, and delivers unparalleled interactivity, knowledge sharing and predictive analytics to support cost-effective continuous improvement. Thousands of users across multiple industries â€“ including technology, manufacturing, services and government â€“ rely on myDIALS to improve operational performance and business results through better decision making. myDIALS is based in Louisville, Colo. Visit www.mydials.com for more information.

@@ -1,5 +1,0 @@
-Intapp helps law firms increase revenue, ensure client confidentiality, manage risk and maximize lawyer productivity. With over 450 clients, including 81% of the AmLaw 100, and a vibrant partner community, Intapp has been embraced and endorsed as an industry standard.
-
-Intapp Wall Builder enables law firms to closely manage access to internal information. Scenarios driving the need for confidentiality include waiver-driven ethical walls, client requirements, management concerns about the scope of access available to contract attorneys and compliance with regulations such as SEC, SOX, HIPAA, ITAR and European Union directives. Wall Builder provides law firms with centralized control, enforcement and visibility of confidentiality policies.
-
-Wall Builder is the most-adopted confidentiality lifecycle management platform as reported by an independent 2010 survey by the International Legal Technology Association (ILTA) -- 74% of large law firms using commercial software to enforce ethical screens to secure access to confidential information use Intapp Wall Builder.

@@ -1,4 +1,0 @@
-Violin Memory is a public American company based that designs and manufactures computer data storage products. The company’s All Flash optimized solutions accelerate breakthrough CAPEX and OPEX savings for building the next-generation data center, while its Flash Fabric Architecture (FFA) speeds data delivery with chip-to-chassis performance optimization that achieves lower consistent latency and cost per transaction for cloud, enterprise, and virtualized mission-critical applications. Violin's All Flash arrays and appliances, and enterprise data management software solutions enhance agility and mobility while revolutionizing datacenter economics. 
-
-
-Violin Memory was founded by Jon Bennett in 2005 and is based in Santa Clara, California.

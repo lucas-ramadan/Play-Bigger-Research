@@ -1,1 +1,0 @@
-MynewMD locates the most appropriate health care for patients by first analyzing their preferences, and then recommending the most suitable match to their needs.

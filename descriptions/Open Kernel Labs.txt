@@ -1,3 +1,0 @@
-Open Kernel Labs supplies software products and professional services to OEMs and other organizations developing and deploying intelligent devices. OK Labs leadership in development of microkernel technology and its application to the creation of device software enables embedded virtualization, secure componentization, trustworthy implementation, and verification, improving the development process for increasingly complex embedded systems software. 
-
-Open Kernel Labs, Inc. was founded in 2006 and is headquartered in Chicago, Illinois.

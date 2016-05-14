@@ -1,5 +1,0 @@
-Centrifuge provides Interactive Analytics technology that allows analysts to connect to data, explore the data interactively and share results through collaborative analysis.
-
-Interactive Analytics (IA) brings together three modern innovations in analysis:  Interactive Data Visualization, Unified Data Views and Collaborative Analysis.  With IA, users can explore data at the speed of the human mind.  They render data in the form of rich pictures and navigate across visualizations. With IA, users can identify important insights hidden in the data.  At any point, users can publish results to the Centrifuge analytics repository while also notifying members of the analytical ecosystem of these important results.  
-
-Centrifuge has been named a Cool Vendor in Analytics and BI. Visit http://a11.bz/NYHoO to view and print a complimentary copy of the Gartner report. Centrifuge is also available for a free evaluation, either as a download or online, at http://www.centrifugesystems.com/company/tryit.php

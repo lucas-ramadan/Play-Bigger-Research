@@ -1,3 +1,0 @@
-RABBL is a social booking platform for live music.
-
-RABBL lets fans prove real demand for potential concerts by reserving tickets in artist-approved “rabbls,” votes about where and when shows should happen. Once demand for a potential show is proven, RABBL's platform connects artists, promoters, venues, and bookers so shows are booked efficiently and with less risk.

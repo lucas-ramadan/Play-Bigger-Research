@@ -1,3 +1,0 @@
-Standing Cloud is a leading provider of cloud application management services, providing a seamless application layer for cloud service providers that makes application deployment and management fast, simple and hassle-free for their customers. Its standard application catalog includes 100 open-source and commercial applications. Its Platform-as-as-Service (PaaS) capabilities support multiple programming languages, including Rails, PHP, Java and Python, and a wide range of cloud service providers and orchestration software systems.
-
-Founded in 2009, Standing Cloud is based in Boulder, Colorado.  Investors include Foundry Group and Avalon Ventures.

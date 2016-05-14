@@ -1,5 +1,0 @@
-Toopher saves consumers and businesses billions of dollars by preventing online fraud and identity theft before it ever happens.
-
-Toopher virtually eliminates online fraud and identity theft by providing automated two-factor authentication. Toopher offers better security without any of the hassle entrenched in existing two-factor solutions. We use the location awareness of your smartphone to add another layer of security to passwords—all without leaving your pocket. Toopher is the rare security tool that users actually want to use; it’s the future of mobile and security… today.
-
-Upping the ante, Toopher breaks the security mold by going beyond simply authenticating only logins, but adds authentication to every critical action; it’s just as important (if not more) to confirm identity when users transfer funds or make purchases as it is when they log in.

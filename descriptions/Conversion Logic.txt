@@ -1,1 +1,0 @@
-Conversion Logic in an adaptive, cross-channel attribution SaaS platform built for delivering timely media performance insights for brands, agencies and ad tech partners.  Data is collected, analyzed and activated through the Ensemble Method that determines which media channels and dimensions will maximize ROI for clients.

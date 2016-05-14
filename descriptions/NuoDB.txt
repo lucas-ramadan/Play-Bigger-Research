@@ -1,8 +1,0 @@
-Everyday businesses face serious challenges coping with application performance, maintaining business continuity and gaining operational intelligence in real-time. NuoDB leads the industry with a proven NewSQL solution to solve all these challenges. It provides a unique combination of scale-out performance, zero downtime and active/active geo-distributed data management. 
-
-
-It’s an operational DBMS to handle transactions, interactions and observations anywhere.
-
-Launched in 2010 by industry-renowned database architect Jim Starkey and accomplished software CEO Barry Morris, the company is based in Cambridge, MA. Used by thousands of developers worldwide, NuoDB’s customers include automotive after-market giant AutoZone, NorthPoint Solutions and other innovative companies.
-
-The company is the recipient of numerous, prestigious industry awards including: Gartner Cool Vendor and The Red Herring Top 100.

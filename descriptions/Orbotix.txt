@@ -1,5 +1,0 @@
-Sphero formerly known as Orbotix is focused on bringing a new concept of fun through robotics and phone-controlled open devices. 
-
-Their first product, [Sphero](/product/sphero), uses Orbotix's API to create the first robotic ball gaming device controlled by your smartphone. 
-
-Founded by passionate lifelong robotic engineers, Orbotix is working to bring the real world to your smartphone. Based in Boulder Colorado, the Orbotix team takes fun very seriously, for more information visit Sphero.com.

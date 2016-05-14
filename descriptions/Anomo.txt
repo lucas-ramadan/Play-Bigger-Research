@@ -1,3 +1,0 @@
-Anomo is a Mobile Location-Based Social Discovery App, created with the mission of connecting people with others around them.  Anomo allows its users to control who they meet and interact with, instead of relying purely on "serendipity", all while keeping users safety and privacy at the forefront.
-
-Anomo envisions a world in which everybody uses Anomo, wherever they go, to meet the people they need to, whether it be for dating, business connections, friendship, or even just simple casual interactions.

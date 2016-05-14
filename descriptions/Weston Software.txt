@@ -1,5 +1,0 @@
-Weston Software, Inc. is a Connecticut corporation founded by Hank Voight in September of 2007 and incorporated in April of 2008. The company is headquartered in the town of Westport in Fairfield County.
-
-The Company is a leading-edge software technology business that designs, manufactures and distributes products for managing UNIX, Linux, and Apple MacIntosh systems that reside in data centers, virtualized environments and computing clouds. Weston Software Inc. is positioned as a leader in developing solutions for the next generation of web-based services known as â€œcloud computingâ€, typified by offerings such as Microsoftâ€™s Azure, Hewlett-Packardâ€™s DSPP and Amazonâ€™s Elastic Computing Cloud.
-
-Weston Software, Inc. is positioned to change the landscape on how disparate systems are managed, consolidating all platforms to a single console, and eliminating the need for a server based management infrastructure.

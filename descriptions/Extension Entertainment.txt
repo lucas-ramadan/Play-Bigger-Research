@@ -1,1 +1,0 @@
-Exfm is a social music discovery platform that turns the entire web into your personal music library. As you browse the web, exfm gathers every MP3 file you come across, building a music library for you. Exfm makes it incredibly simple to share your favorite music with all your friends. Exfm was founded in March 2010 in New York City.

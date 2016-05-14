@@ -1,5 +1,0 @@
-WalletKit is a SaaS platform for businesses to create,manage and deliver to its customers digital Boarding passes,Tickets,Store cards and Coupons for mobile wallets like Apple passbook and Google Wallet.We want to be the central platform to deliver digital mobile passes across all major mobile wallet platforms.
-
-Walletkit helps you design beautiful mobile passes,distribute passes to your customers and visualize results. Walletkit provides a scalable and reliable platform to relieve businesses of the cost ,complexity of maintaining and automating custom pass delivery along with flexible API’s that makes custom integration a breeze.
-
-WalletKit specifically addresses the pain points of creating and managing the distribution of mobile passes which will be experienced by the majority of businesses which adopt to new digital wallet solutions like Apple Passbook, Google wallet and Windows Hub.

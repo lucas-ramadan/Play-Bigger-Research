@@ -1,5 +1,0 @@
-FiberZone Networks aims to automate complex fiber infrastructure while providing flexibility and control.
-
-FiberZone's Automatic Fiber Management system controls every aspect of fiber management, including installation, documentation, maintenance, testing, and disaster recovery.
-
-By offering this automated arrangement, FiberZone allows its customers to maintain remote access to the fiber infrastructure and to hold control over this infrastructure in a centralized location.

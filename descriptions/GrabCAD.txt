@@ -1,5 +1,0 @@
-[GrabCAD](http://www.grabcad.com) is a mechanical engineering community for sharing talent, expand knowledge and collaborate, including free [CAD model library](http://grabcad.com/library) and [engineering competitions platform](http://grabcad.com/challenges).
-
-The founders [Hardi Meybaum](http://www.crunchbase.com/person/hardi-meybaum) and [Indrek Narusk](http://www.crunchbase.com/person/indrek-narusk) previously ran a product development company.
-
-GrabCAD was founded in 2009. The company's headquarters is based in Boston, USA with development team in Estonia.

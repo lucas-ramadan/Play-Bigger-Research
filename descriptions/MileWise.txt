@@ -1,7 +1,0 @@
-Milewise is a travel planning company that provides a search engine service for frequent travelers which shows various ways to pay for flights using cash, airline miles, and hotel and credit card points.
-
- 
- The search engine also tracks reward program balances and combines them with user’s travel and redemption preferences to recommend the best way to pay.
-
- 
- Milewise was incorporated in 2010 and is based in New York, United States. As of May 9, 2013, it was acquired by [Yahoo! Inc](http://www.crunchbase.com/organization/yahoo).

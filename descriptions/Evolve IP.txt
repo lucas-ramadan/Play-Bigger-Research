@@ -1,3 +1,0 @@
-Evolve IP is a Cloud Services Company. They provide organizations with a unified option for cloud services such as virtual servers, virtual desktops, disaster recovery, IP telephony, unified communications, contact centers, and more.
-
-They have built geographically-diverse, redundant data centers based on technologies from Cisco, EMC, VMware, and Broadsoft, and connected various tier-one carriers to create a Private Cloud. Sitting on top of this cloud-based service is a proprietary portal that they call OSSmosis, which is a single unified portal to control all Evolve IP services.

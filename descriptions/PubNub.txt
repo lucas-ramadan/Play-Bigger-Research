@@ -1,3 +1,0 @@
-PubNub is a secure global Data Stream Network (DSN) and easy to use API that enables our customers to connect, scale, and manage realtime applications and IoT devices. With over 70 SDKs for every platform, 250ms worldwide data transfer times, and scalability for hundreds of millions of devices, PubNub’s unique infrastructure gives you the ability to easily connect and operate world-class realtime applications and IoT devices. PubNub is headquartered in San Francisco. 
- 
-Visit https://www.pubnub.com to start a free trial today.

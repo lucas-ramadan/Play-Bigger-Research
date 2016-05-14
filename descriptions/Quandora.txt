@@ -1,7 +1,0 @@
-Quandora helps companies foster a community of continuous learning and employee engagement through the simple act of asking questions.
-
-Every workplace has unspoken rules, internal processes, general modes of operating, and technological know-how that is hard to find and track. This proprietary knowledge is difficult to capture, document, and communicate to internal teams.
-
-Quandora enables users to ask questions, share knowledge, and learn on a platform that is accessible to all team members. Our web and mobile-based tool ensures that invaluable information is never lost and that communities are constantly learning and improving.
-
-We provide integrations with popular Enterprise tools: GoogleApps, Yammer, SalesForce, Zendesk, HipChat, and more.

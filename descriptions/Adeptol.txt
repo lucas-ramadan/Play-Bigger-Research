@@ -1,9 +1,0 @@
-Adeptol is the provider of the industry's leading web based universal document viewer. 
-
-The company's flagship product, Server Based Document AJAXDocumentViewer uses AJAX and Flash technology to create fast rendering of documents on the fly and includes a unique set of capabilities to render, enrich and dynamically deliver content. On top of this platform, our customers and our partners build information access and delivery solutions used by various industries, publishers, government agencies and other large enterprises to accelerate the viewing of documents.
-
-AJAX Document Viewer is focusing on creating a unique viewer that can be embedded in any application and and be used to collaborate, distribute and share documents online.  
-
-AJAX Document Viewer allows content publishers, bloggers and individual users to publish content and embed the documents in their web pages while still maintaining the integrity, consistency and look &  feel of the the document.  
-
-Our viewer provides easy-to-use, enterprise-class viewing capabilities and we support integrations to enterprise content management solutions, project management  and portal websites while providing significant cost-savings by providing a single universal viewer for various formats of content.

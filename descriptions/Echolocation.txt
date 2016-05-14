@@ -1,1 +1,0 @@
-Echo is a mobile app that connects you with your location through simple 140 character messages. When you open the app, echo automatically detects which city you're in, and provides you with the most recent updates from echo users in that city. It's a great way to get local news, discover events, and interact with people around you.

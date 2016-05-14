@@ -1,1 +1,0 @@
-Rubrik offers live data access for recovery and application development by fusing enterprise data management with web-scale IT, and eliminating backup software. This marks the end of a decade-long innovation drought in backup and recovery, the backbone of IT. Within minutes, businesses can manage the explosion of data across private and public clouds.
