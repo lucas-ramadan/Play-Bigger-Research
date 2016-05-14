@@ -1,6 +1,8 @@
-Play-Bigger-Research
+# Play-Bigger-Research
 
-==========
+![play-bigger-logo]('imgs/PlayBigger.png')
+
+-----------------------
 
 This repo contains work done for Play Bigger, during my Capstone and Internship semesters at galavanizeU.
 
